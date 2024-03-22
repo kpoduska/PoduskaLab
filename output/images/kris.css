@@ -1,0 +1,209 @@
+
+<?php 
+$color=array(
+"main"=>"#005",
+"home"=>"#005",
+"research"=>"#500",
+"teaching"=>"#303",
+"advocacy"=>"#034",
+"contrast"=>"#bbb",
+"background"=>"#fff",
+"text"=>"#000",);
+
+echo "
+
+html, body, ul, ol, li, img {margin: 0; padding: 0; border: 0;}
+
+body {margin: 0; padding: 0; font-family: Arial, sans-serif; background-color: #fff; font-size: 130%; color:#000;}
+
+.wrapper {max-width: 50em; min-width: 35em; padding: 0 17% 10px 15%;}
+
+h1 {font-size: 2.0em; border-bottom: 3px solid #fff; background-color: ".$color[$topic].";
+	 margin-top: 10px; color: #fff; padding: 5px 5px 5px 1em;}
+	
+h2 {font-size: 1.7em; font-weight: bold; margin: 1em 0 .5em 0em; color: #000; padding-top: .5em; clear: both;}
+
+h3 {font-size: 1.5em; font-weight: bold; margin: 1.5em 0 .5em 0.5em; color: #000;}
+
+h4 {font-size: 1em; font-weight: bold; margin: 1.5em 0 .5em -1em;}
+
+p {margin: .8em 0 .6em 0;}
+
+ul, ol {margin: .1em 0 .4em 0;}
+
+li {margin: 20px 1em; padding: 10;}
+
+a {color:  ".$color[$topic].";}
+
+\* This removes the underline from links: text-decoration: none;}*\
+
+.indented {margin: 0 50px 0 30px;}
+
+.alignright {margin: 0 30px 20px 10%; text-align: right;}
+
+.small {font-size: 1.1em;}
+
+.tiny {font-size: 1.0em;}
+
+pre {margin: 30px 0; padding: 20px 20px 20px 50px; background-color: #f8ddb8;
+	border: 2px dotted #000; font-size: 1.1em; clear: both;}
+
+.float-p {padding: 10px 30px 10px 0;}
+
+.float-p img {float: left; margin: 0 20px 10px 0;}
+
+.float-left {float: left; clear: left; margin: 0 20px 10px 0;}
+
+.float-right {float: right; clear: right; margin: 0 0 10px 20px;}
+
+.clear {clear: both; margin-top: 2em;}
+
+.tip {
+background-color: #e0e8f0;
+font-style: italic;
+border: 1px solid  ".$color[$topic].";
+color: #000;
+font: 1em ;
+margin: 0em 0 10px 0;
+padding: 10px;
+clear: both;
+}
+
+
+.opp-wrapper {
+margin: 15px 0 15px 0;
+}
+
+.opp-float {
+width: 100%;
+}
+
+.sidenav {
+position: fixed;
+top: 0em;
+left: 1em;
+outline: thick solid ".$color['contrast'].";
+Margin-top: 10px;
+width: 6.5em;
+background: ".$color['contrast'].";
+}
+
+.maincol {
+margin: 0 10px 0 9em;
+max-width: 50em;
+min-width: 35em;
+}
+
+
+.sidenav ul {margin: 1em; list-style: none;}
+
+.sidenav ol {margin: 1em; list-style: none; text-align: center;}
+
+.sidenav li {margin: 2px 0 0; list-style: none;}
+
+.sidenav ul li ul li {margin: 4px 1em 0 ;}
+
+.sidenav li a {
+display: block;
+outline: 3px solid;
+border: 2px solid  ".$color[$topic].";
+color:  ".$color[$topic].";
+text-decoration: none;
+background: url(images/marble1.jpg);
+padding: 4px 5px 4px 10px;
+font-size: 1.1em;
+}
+
+.sidenav ul {margin: 0; list-style: none;}
+
+.sidenav ol {margin: 0; list-style: none; text-align: center;}
+
+.sidenav li {margin: 4px 0 0; list-style: none;}
+
+
+.sidenav li a:hover {
+border-color:  solid  ".$color[$topic].";
+background-position: -1px -1px;
+padding: 3px 6px 5px 9px;
+}
+
+.sidenav li a:active {
+border-color: solid  ".$color[$topic].";
+background-position: 0 0;
+padding: 4px 5px 4px 10px;
+}
+
+ul p {
+margin: .5em 0;
+}
+
+ul h5 {
+margin: 2em 0 0 0;
+}
+
+dl {
+margin: .6em 0 1.4em 0;
+}
+
+dl ul {
+margin: 0;
+}
+
+#dropshadows h3, #dropshadows h4 {
+clear: both;
+margin-top: 0;
+padding-top: 2em;
+}
+
+
+* html .sidenav li a
+{
+zoom: 1;
+}
+
+* html .sidenav
+{
+position: absolute;
+top: auto;
+}
+
+
+.italics  {
+text-align: right; font-style: italic;
+margin: 10px 20px 20px 20px;
+}
+
+.headerbar  {
+font-size: 1.5em;
+font-style: italic;
+color: white;
+background: ".$color['contrast'].";
+text-align: center ;
+padding: 5px 5px 5px 0.7em;
+}
+
+.headerbig  {
+font-size: 2.0em;
+color: white;
+background: ".$color[$topic].";
+text-align: left;
+padding: 5px 5px 5px 0.7em;
+}
+
+.headermed  {
+font-size: 1.5em;
+color: white;
+background:  ".$color[$topic].";
+text-align: left;
+padding: 5px 0 2px 1em;
+}
+
+.headersmall  {
+font-size: 1.2em;
+color: white;
+background:  ".$color[$topic].";
+text-align: left;
+padding: 5px 0 10px 1.4em;
+}
+
+"; ?>
