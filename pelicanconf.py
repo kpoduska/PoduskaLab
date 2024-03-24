@@ -1,5 +1,5 @@
-#AUTHOR = 'SS'
-SITENAME = '<style="font-size:20px; color:black; text-decoration:none"><b>Dr. Kristin Poduska <br> Professor </br>Memorial University of Newfoundland & Labrador </br>Experimental Materials Physics & Chemistry</br></b>'
+#AUTHOR = 'SS
+SITENAME = '<style="font-size:20px; color:black; text-decoration:none"><b>Dr. Kristin Poduska </b> <br> Professor </br>Memorial University of Newfoundland & Labrador </br>Experimental Materials Physics & Chemistry</br>'
 SITEURL = "https://kpoduska.github.io/PoduskaLab"
 
 PATH = "content"
