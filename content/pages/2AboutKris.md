@@ -13,6 +13,8 @@ Status: hidden
 
 <h2>Academic Positions</h2>
 
+<li> 2024-present: Associate Scientific Director (Memorial University), <a href="https://www.ofi.ca/programs/transform-climate-action">Transforming Climate Action</a> </li>
+
 <li> 2015-present: Professor of <a href="http://www.physics.mun.ca">physics</a> (cross-appointed to <a href="http://www.chem.mun.ca">Department of Chemistry</a>),<br> <a href="http://www.mun.ca">Memorial University of Newfoundland</a>  </li>
 
 <li> 2018-2021: Head, <a href="http://www.physics.mun.ca"> Department of Physics and Physical Oceanography</a>,<br> <a href="http://www.mun.ca">Memorial University of Newfoundland</a>  </li>
