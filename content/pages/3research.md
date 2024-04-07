@@ -21,7 +21,9 @@ For as long as humans have existed, we have used materials around us in creative
 We investigate materials with <a href ="?content=projects&topic=research#Environment">environmental</a>, <a href ="?content=projects&topic=research#Archaeology">archaeological</a>,  <a href ="?content=projects&topic=research#Geology">geological</a> and <a href ="?content=projects&topic=research#Wettability">technological</a> applications.
 
 <h2> Publications</h2>
-Read about <a href ="https://kpoduska.github.io/PoduskaLab/pages/publications.html">our recent findings, including press releases</a>.
+You can also view my full publication lists using <a href="https://orcid.org/0000-0003-4495-0668">ORCID</a>, <a href="https://scholar.google.ca/citations?user=cF0LuegAAAAJ&hl=en">Google Scholar</a>, and <a href="https://www.researchgate.net/profile/Kristin-Poduska">Research Gate</a>.
+
+<!--Read about <a href ="https://kpoduska.github.io/PoduskaLab/pages/publications.html">our recent findings, including press releases</a>.-->
 
 <h2> The Group</h2>
 <a href ="https://kpoduska.github.io/PoduskaLab/pages/group.html"> My research team</a> includes chemists, physicists, earth scientists, engineers, archaeologists, and mathematicians.
