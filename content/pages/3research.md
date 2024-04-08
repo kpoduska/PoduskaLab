@@ -21,7 +21,7 @@ For as long as humans have existed, we have used materials around us in creative
 We investigate materials with <a href ="https://shivanisemwal.github.io/PoduskaLab_md/pages/projects.html">environmental</a>, <a href ="https://shivanisemwal.github.io/PoduskaLab_md/pages/projects.html">archaeological</a>,  <a href ="https://shivanisemwal.github.io/PoduskaLab_md/pages/projects.html">geological</a> and <a href ="https://shivanisemwal.github.io/PoduskaLab_md/pages/projects.html">technological</a> applications.
 
 <h2> Publications</h2>
-You can also view my full publication lists using <a href="https://orcid.org/0000-0003-4495-0668">ORCID</a>, <a href="https://scholar.google.ca/citations?user=cF0LuegAAAAJ&hl=en">Google Scholar</a>, and <a href="https://www.researchgate.net/profile/Kristin-Poduska">Research Gate</a>.
+View my full publication lists using <a href="https://orcid.org/0000-0003-4495-0668">ORCID</a>, <a href="https://scholar.google.ca/citations?user=cF0LuegAAAAJ&hl=en">Google Scholar</a>, and <a href="https://www.researchgate.net/profile/Kristin-Poduska">Research Gate</a>.
 
 <!--Read about <a href ="https://kpoduska.github.io/PoduskaLab/pages/publications.html">our recent findings, including press releases</a>.-->
 
