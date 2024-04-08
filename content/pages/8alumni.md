@@ -5,7 +5,7 @@ Status: hidden
 
 <h1>Poduska Group Alumni </h1>
 <div class = "small italics">
-Return to <a href="https://kpoduska.github.io/PoduskaLab/pages/research.html">Research</a>
+Return to <a href="https://shivanisemwal.github.io/PoduskaLab_md/pages/research.html">Research</a>
 </div>
 
 <br>

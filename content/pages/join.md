@@ -6,17 +6,17 @@ Status: hidden
  <h1> Experience the fun and join the group!</h1>
 
 <div class = "small italics">
-Return to <a href="https://kpoduska.github.io/PoduskaLab/pages/research.html">Research</a>
+Return to <a href="https://shivanisemwal.github.io/PoduskaLab_md/pages/research.html">Research</a>
 </div>
 
-<p><img src="https://kpoduska.github.io/PoduskaLab/images/data_smile3.jpg" title="Boyang and Marisa" height="170"></p>
+<p><img src="https://shivanisemwal.github.io/PoduskaLab_md/images/data_smile3.jpg" title="Boyang and Marisa" height="170"></p>
 <!--<img src="tingting.jpg" alt="Tingting" title="Tingting"  height="120">
 <img src="nov2010.jpg" alt="Group dinner" title="Group dinner" width="90" height="120">-->
 <!--<img src="steph.jpg" alt="Steph" title="Steph" width="160" height="120">
 <img src="liam2.jpg" alt="Liam" title="Liam"width="90" height="120"><img src="bg_ir_smile_crop.jpg" title="Boyang" height="170">-->
-<p><img src="https://kpoduska.github.io/PoduskaLab/images/shawn.jpg" alt="Shawn" title="Shawn" height="170">
-<img src="https://kpoduska.github.io/PoduskaLab/images/ben_sxrmb.jpg" title="Ben"height="170">
-<img src="https://kpoduska.github.io/PoduskaLab/images/kris_cls.jpg" title="X-ray experiments at the Canadian Light Source"height="170"></p>
+<p><img src="https://shivanisemwal.github.io/PoduskaLab_md/images/shawn.jpg" alt="Shawn" title="Shawn" height="170">
+<img src="https://shivanisemwal.github.io/PoduskaLab_md/images/ben_sxrmb.jpg" title="Ben"height="170">
+<img src="https://shivanisemwal.github.io/PoduskaLab_md/images/kris_cls.jpg" title="X-ray experiments at the Canadian Light Source"height="170"></p>
 <hr>
 
 <p>Get a taste of what we do: watch this <a href="https://www.youtube.com/watch?v=leOXt4VeFt8">promotional video</a>.</p>
@@ -54,7 +54,7 @@ Researchers who have external funding can contact me by e-mail. Due to the large
 <br>
 <hr>
 <div class = "small italics">
-Return to <a href="https://kpoduska.github.io/PoduskaLab/pages/research.html">Research</a>
+Return to <a href="https://shivanisemwal.github.io/PoduskaLab_md/pages/research.html">Research</a>
 </div>
 <hr>
 

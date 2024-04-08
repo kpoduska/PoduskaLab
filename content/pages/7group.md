@@ -4,14 +4,14 @@ Category: Group
 
 <h1>The Poduska Research Group </h1>
 <div class = "small italics">
-Return to <a href="https://kpoduska.github.io/PoduskaLab/pages/research.html">Research</a>
+Return to <a href="https://shivanisemwal.github.io/PoduskaLab_md/pages/research.html">Research</a>
 </div>
 <p><br></p>
-<p><img src="https://kpoduska.github.io/PoduskaLab/images/grp_photo2023small.jpeg" title="The Poduska group"height="400"></p>
+<p><img src="https://shivanisemwal.github.io/PoduskaLab_md/images/grp_photo2023small.jpeg" title="The Poduska group"height="400"></p>
 <p><br></p>
 <p><br>
 Students make this research possible! My research group benefits from students with diverse academic backgrounds, including physics, applied math, chemistry, engineering, earth science, and archaeology. Some students have had extensive research experience, while others are experiencing the thrills and challenges of research for the first time. </p>
-<p>If you are interested learning more about research as part of <i>your</i> educational experience, please go here to <a href="https://kpoduska.github.io/PoduskaLab/pages/research.html">find out what opportunities are currently available</a>. </p>
+<p>If you are interested learning more about research as part of <i>your</i> educational experience, please go here to <a href="https://shivanisemwal.github.io/PoduskaLab_md/pages/research.html">find out what opportunities are currently available</a>. </p>
 <p><br></p>
 <h2>Current Research Team</h2>
 
@@ -66,7 +66,7 @@ Students make this research possible! My research group benefits from students w
 <li><b>Jack Taj, B.Sc. student </b>  
 <br><i>E-mail: ajtaj_at_mun.ca</i></li>
 </li>
-<h2><a href="https://kpoduska.github.io/PoduskaLab/pages/group-alumni.html"> Where are the alumni of the Poduska Research group now?</a></h2>
+<h2><a href="https://shivanisemwal.github.io/PoduskaLab_md/pages/group-alumni.html"> Where are the alumni of the Poduska Research group now?</a></h2>
 
 
 

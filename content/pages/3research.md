@@ -5,7 +5,7 @@ Category: Research
 
  <h1>Environmental impacts on solid materials</h1>
 
-<p><img src="https://kpoduska.github.io/PoduskaLab/images/pac_wide.jpg" title="archaeological excavation at Port au Choix, Newfoundland "height="165">  <img src=" https://kpoduska.github.io/PoduskaLab/images/ben_kris_cls.jpg" title="Spectroscopy experiments at the Canadian Light Source"height="165"> </p>
+<p><img src="https://shivanisemwal.github.io/PoduskaLab_md/images/pac_wide.jpg" title="archaeological excavation at Port au Choix, Newfoundland "height="165">  <img src=" https://shivanisemwal.github.io/PoduskaLab_md/images/ben_kris_cls.jpg" title="Spectroscopy experiments at the Canadian Light Source"height="165"> </p>
 <!--<img src="calcite.jpg" title="birefringent calcite"height="60"> <img src="pac_wide.jpg" title="archaeological excavation at Port au Choix, Newfoundland "height="60"> <img src="collagen.jpg" title="collagen fibrils"height="60"> <img src="kris_cls.jpg" title="X-ray experiments at the Canadian Light Source"height="60">  <img src="colloids.jpg" title="colloidal crystal template"height="60"> <img src="ben_kris_cls.jpg" title="Spectroscopy experiments at the Canadian Light Source"height="60"> <img src="zno.jpg" title="zinc oxide"height="60"><br>-->
 
 <p>
@@ -18,7 +18,7 @@ For as long as humans have existed, we have used materials around us in creative
 
 
 <h2> Current projects</h2>
-We investigate materials with <a href ="?content=projects&topic=research#Environment">environmental</a>, <a href ="?content=projects&topic=research#Archaeology">archaeological</a>,  <a href ="?content=projects&topic=research#Geology">geological</a> and <a href ="?content=projects&topic=research#Wettability">technological</a> applications.
+We investigate materials with <a href ="https://shivanisemwal.github.io/PoduskaLab_md/pages/projects.html">environmental</a>, <a href ="https://shivanisemwal.github.io/PoduskaLab_md/pages/projects.html">archaeological</a>,  <a href ="https://shivanisemwal.github.io/PoduskaLab_md/pages/projects.html">geological</a> and <a href ="https://shivanisemwal.github.io/PoduskaLab_md/pages/projects.html">technological</a> applications.
 
 <h2> Publications</h2>
 You can also view my full publication lists using <a href="https://orcid.org/0000-0003-4495-0668">ORCID</a>, <a href="https://scholar.google.ca/citations?user=cF0LuegAAAAJ&hl=en">Google Scholar</a>, and <a href="https://www.researchgate.net/profile/Kristin-Poduska">Research Gate</a>.
@@ -26,7 +26,7 @@ You can also view my full publication lists using <a href="https://orcid.org/000
 <!--Read about <a href ="https://kpoduska.github.io/PoduskaLab/pages/publications.html">our recent findings, including press releases</a>.-->
 
 <h2> The Group</h2>
-<a href ="https://kpoduska.github.io/PoduskaLab/pages/group.html"> My research team</a> includes chemists, physicists, earth scientists, engineers, archaeologists, and mathematicians.
+<a href ="https://shivanisemwal.github.io/PoduskaLab_md/pages/group.html"> My research team</a> includes chemists, physicists, earth scientists, engineers, archaeologists, and mathematicians.
 
 <!--<h2> Lab Tour </h2>
 
@@ -40,14 +40,14 @@ We also use high performance computing resources through <a href="http://www.acc
 
 <h2>Funding</h2>
 
-This work is supported by <a href ="https://kpoduska.github.io/PoduskaLab/pages/about-kris.html">local and national funding agencies</a>, as well as through <a href ="/pages/about-kris.html">industry collaborations</a>.
+This work is supported by <a href ="https://shivanisemwal.github.io/PoduskaLab_md/about-kris.html">local and national funding agencies</a>, as well as through <a href ="/pages/about-kris.html">industry collaborations</a>.
 
 <h2>Join us!</h2>
 
-Do you think this research is for you? <a href ="https://kpoduska.github.io/PoduskaLab/pages/join.html">View this page</a> to learn about employment and studying opportunities.  <br>
+Do you think this research is for you? <a href ="https://shivanisemwal.github.io/PoduskaLab_md/pages/join.html">View this page</a> to learn about employment and studying opportunities.  <br>
 <br>
 
-<img src="https://kpoduska.github.io/PoduskaLab/images/groupwalk2022.jpg" title="Group walk, August 2022"height="210">
+<img src="https://shivanisemwal.github.io/PoduskaLab_md/images/groupwalk2022.jpg" title="Group walk, August 2022"height="210">
 
 
 <HR>

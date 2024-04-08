@@ -16,13 +16,13 @@ As part of the 2020 <A href="https://www.cap.ca/programs/cap-lecture-tour/">Cana
 <li><a href="https://www.cap.ca/programs/cap-lecture-tour/2017-lecture-tour/2017-cap-lecture-tour-schedule/">Shark skin, butterfly wings, and lotus leaves: the physics of water on rough surfaces</a><br>
 As part of the 2017 <A href="https://www.cap.ca/programs/cap-lecture-tour/">Canadian Association of Physicists Lecture Tour</a>, I talked to public audiences and undergraduate physics students about how physics can be used to understand and create water-repellent surfaces.</li>
 
-<li>  <a href = "https://kpoduska.github.io/PoduskaLab/images/Shoesmith.pdf">The Nuclear Future: Can We Make It Safe?</a><br>
+<li>  <a href = "https://shivanisemwal.github.io/PoduskaLab_md/images/Shoesmith.pdf">The Nuclear Future: Can We Make It Safe?</a><br>
 Visiting speaker Prof. David Shoesmith talked about the science, geology, and public perception of nuclear waste disposal.</li>
 
 <li>  10 things you should know before (radiocarbon) dating<br>
 I talked about radiocarbon dating (in <a href="http://en.wikipedia.org/wiki/PechaKucha">Pecha Kucha</a> style)</li>
 
-<li>  <a href = "https://kpoduska.github.io/PoduskaLab/images/Boaretto.pdf">It's all in the timing</a><br>
+<li>  <a href = "https://shivanisemwal.github.io/PoduskaLab_md/images/Boaretto.pdf">It's all in the timing</a><br>
 Visiting speaker Dr. Elisabetta Boaretto talked about radiocarbon dating in archaeology</li>
 
 <li>  Caffeinating with Chemists <br> I and other scientists publicized the <a href="https://en.wikipedia.org/wiki/International_Year_of_Chemistry">International Year of Chemistry</a></li>
@@ -30,13 +30,13 @@ Visiting speaker Dr. Elisabetta Boaretto talked about radiocarbon dating in arch
 <li> <a href = "http://nakeddiscovery.com/scripts/mp3s/audio/Naked_Archaeology_11.01.17.mp3">Made by human hands?</a> <br>
 Learn how my colleagues and I use infrared spectroscopy to tell the difference between human-made and geologic calcites in archaeological investigations on BBC Radio's  <a href = "http://www.thenakedscientists.com/HTML/podcasts/archaeology/">The Naked Scientists: Science Radio & Science Podcasts</a>.</li>
 
-<li>  <a href = "https://kpoduska.github.io/PoduskaLab/images/Mermin.pdf">Spooky actions at a distance?</a><br>  Visiting speaker Prof. N. David Mermin talked about the curiosities of quantum mechanics. </li>
+<li>  <a href = "https://shivanisemwal.github.io/PoduskaLab_md/images/Mermin.pdf">Spooky actions at a distance?</a><br>  Visiting speaker Prof. N. David Mermin talked about the curiosities of quantum mechanics. </li>
 
 <li> The cold truth <br> I talked on CBC Radio's  <a href = "http://www.cbc.ca/quirks/">Quirks and Quarks</a> to explain what happens to water that fills up and freezes inside a vessel that will neither expand nor burst.</li>
 
 <h2>For teachers</h2>
 
-<li> <a href = "https://kpoduska.github.io/PoduskaLab/images/CAP_teachers2011.pdf">Eleventh Annual Physics Teacher Workshop</A> 
+<li> <a href = "https://shivanisemwal.github.io/PoduskaLab_md/images/CAP_teachers2011.pdf">Eleventh Annual Physics Teacher Workshop</A> 
 <br>held in conjunction with the 2011 <A href="http://www.cap.ca">Canadian Association of Physicists</a> Congress.  </li>
 
 Bright Ideas: activities with light-emitting diodes for teachers, 
