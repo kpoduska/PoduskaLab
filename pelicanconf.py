@@ -16,7 +16,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 DEFAULT_METADATA = {
-    'status': 'draft',
+    'status': 'published'
 }
 
 
