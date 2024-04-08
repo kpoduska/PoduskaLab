@@ -15,10 +15,6 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-DEFAULT_METADATA = {
-    'status': 'published'
-}
-
 
 # Blogroll
 #LINKS = (
