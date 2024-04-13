@@ -1,6 +1,5 @@
 Title: Home
 Category: Home
-Status: published
 
 <p><img src="https://kpoduska.github.io/PoduskaLab/images/kp.jpg" title ="Photo of Kris Poduska" alt="Photo of Kris Poduska" width="187">  <br></p>
 <p><i>Ph.D. <a href="http://www.cornell.edu">Cornell University</a> <br></p>
