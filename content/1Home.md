@@ -1,4 +1,5 @@
 Title: Home
+Date: 2024-02-25 10:20
 Category: Home
 
 <p><img src="https://kpoduska.github.io/PoduskaLab/images/kp.jpg" title ="Photo of Kris Poduska" alt="Photo of Kris Poduska" width="187">  <br></p>
