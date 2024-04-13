@@ -18,15 +18,15 @@ For as long as humans have existed, we have used materials around us in creative
 
 
 <h2> Current projects</h2>
-We investigate materials with <a href ="https://shivanisemwal.github.io/PoduskaLab_md/pages/projects.html">environmental</a>, <a href ="https://shivanisemwal.github.io/PoduskaLab_md/pages/projects.html">archaeological</a>,  <a href ="https://shivanisemwal.github.io/PoduskaLab_md/pages/projects.html">geological</a> and <a href ="https://shivanisemwal.github.io/PoduskaLab_md/pages/projects.html">technological</a> applications.
+We investigate materials with <a href ="https://shivanisemwal.github.io/PoduskaLab_md/pages/projects.html">environmental</a>, <a href ="https://shivanisemwal.github.io/PoduskaLab_md/pages/projects.html">archaeological</a>,  <a href ="https://shivanisemwal.github.io/PoduskaLab_md/pages/projects.html">geological</a> and <a href ="https://shivanisemwal.github.io/PoduskaLab_md/pages/projects.html">technological</a> applications. <br>
 
 <h2> Publications</h2>
-View my full publication lists using <a href="https://orcid.org/0000-0003-4495-0668">ORCID</a>, <a href="https://scholar.google.ca/citations?user=cF0LuegAAAAJ&hl=en">Google Scholar</a>, and <a href="https://www.researchgate.net/profile/Kristin-Poduska">Research Gate</a>.
+View my full publication lists using <a href="https://orcid.org/0000-0003-4495-0668">ORCID</a>, <a href="https://scholar.google.ca/citations?user=cF0LuegAAAAJ&hl=en">Google Scholar</a>, and <a href="https://www.researchgate.net/profile/Kristin-Poduska">Research Gate</a>.<br>
 
 <!--Read about <a href ="https://kpoduska.github.io/PoduskaLab/pages/publications.html">our recent findings, including press releases</a>.-->
 
 <h2> The Group</h2>
-<a href ="https://shivanisemwal.github.io/PoduskaLab_md/pages/group.html"> My research team</a> includes chemists, physicists, earth scientists, engineers, archaeologists, and mathematicians.
+<a href ="https://shivanisemwal.github.io/PoduskaLab_md/pages/group.html"> My research team</a> includes chemists, physicists, earth scientists, engineers, archaeologists, and mathematicians. <br>
 
 <!--<h2> Lab Tour </h2>
 
