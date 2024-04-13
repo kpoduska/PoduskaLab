@@ -1,6 +1,6 @@
 #AUTHOR = 'SS
 SITENAME = '<b>Dr. Kristin Poduska </b> <br> Professor </br>Memorial University of Newfoundland & Labrador </br>Experimental Materials Physics & Chemistry</br>'
-SITEURL = "https://kpoduska.github.io/PoduskaLabMD"
+SITEURL = "https://kpoduska.github.io/PoduskaLab"
 
 PATH = "content"
 
