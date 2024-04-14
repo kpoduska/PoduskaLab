@@ -1,7 +1,8 @@
 #AUTHOR = 'SS
-SITENAME = 'Dr. Kristin Poduska'
+SITENAME = 'Poduska Research Lab'
 SITEURL = ""
-SITESUBTITLE = '<br> Professor </br>Memorial University of Newfoundland & Labrador </br>Experimental Materials Physics & Chemistry'
+SITESUBTITLE = '<br> Dr. Kristin Poduska, Professor <br> Memorial University of Newfoundland & Labrador <br>Experimental Materials Physics & Chemistry'
+SITELOGO = 'images/cow.jpg'
 
 PATH = "content"
 
@@ -22,12 +23,13 @@ AUTHOR_FEED_RSS = None
 
 
 # Blogroll
-#LINKS = (
- #   ("Pelican", "https://getpelican.com/"),
-  #  ("Python.org", "https://www.python.org/"),
+LINKS_WIDGET_NAME = 'Links'
+LINKS = (
+    ("Pelican", "https://getpelican.com/"),
+   ("Python.org", "https://www.python.org/"),
    # ("Jinja2", "https://palletsprojects.com/p/jinja/"),
     #("You can modify those links in your config file", "#"),
-#)
+)
 
 # Social widget
 #SOCIAL = (
