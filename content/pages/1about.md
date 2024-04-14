@@ -1,5 +1,5 @@
 Title: About
-Date: 2024-02-25 10:20
+Date: 2024-04-14 16:20
 Category: About
 
 <p><img src="../images/kp.jpg" title ="Photo of Kris Poduska" alt="Photo of Kris Poduska" width="187">  <br></p>
