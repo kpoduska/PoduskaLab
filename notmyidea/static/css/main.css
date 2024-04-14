@@ -222,9 +222,9 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
     margin-bottom: 0;
 }
 
-#content .body img, #content.body img{
-	height: 10%;
-}
+/*#content .body img, #content.body img{
+	width: 100%;
+} */
 
 /*
 Dark-Theme Toggle 
