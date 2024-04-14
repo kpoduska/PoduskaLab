@@ -5,7 +5,7 @@ Category: Research
 
  <h1>Environmental impacts on solid materials</h1>
 
-<p><img src="../images/pac_wide.jpg" title="archaeological excavation at Port au Choix, Newfoundland "height="165">  <img src="../images/ben_kris_cls.jpg" title="Spectroscopy experiments at the Canadian Light Source"height="165"> </p>
+<p><img src="../images/pac_wide.jpg" title="archaeological excavation at Port au Choix, Newfoundland "height="125">  <img src="../images/ben_kris_cls.jpg" title="Spectroscopy experiments at the Canadian Light Source"height="125"> </p>
 <!--<img src="calcite.jpg" title="birefringent calcite"height="60"> <img src="pac_wide.jpg" title="archaeological excavation at Port au Choix, Newfoundland "height="60"> <img src="collagen.jpg" title="collagen fibrils"height="60"> <img src="kris_cls.jpg" title="X-ray experiments at the Canadian Light Source"height="60">  <img src="colloids.jpg" title="colloidal crystal template"height="60"> <img src="ben_kris_cls.jpg" title="Spectroscopy experiments at the Canadian Light Source"height="60"> <img src="zno.jpg" title="zinc oxide"height="60"><br>-->
 
 <p>
