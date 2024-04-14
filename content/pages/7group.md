@@ -20,19 +20,21 @@ Students make this research possible! My research group benefits from students w
 <br><i>E-mail: tsb504_at_mun.ca</i></li>
 </li>
 -->
-<li><b>Murad Almegdade, M.Env.Sci. student</b>
+<b>Murad Almegdade, M.Env.Sci. student</b>
 <br>B.Sc. Geology/Earth Science, University of Jordan
-<br><i>E-mail: mmmalmegdade_at_mun.ca</i></li>
-</li>
-                
-<li><b>Jake Breen, B.Sc. student </b>  
-<br><i>E-mail: jjbreen_at_mun.ca</i></li>
-</li>
+<br><i>E-mail: mmmalmegdade_at_mun.ca</i>
 
-<li><b>Brian Espinosa Acosta, M.Sc. student </b> 
+<p></p>
+
+                
+<b>Jake Breen, B.Sc. student </b>  
+<br><i>E-mail: jjbreen_at_mun.ca</i></li>
+
+
+<b>Brian Espinosa Acosta, M.Sc. student </b> 
 <br> B.Sc. Chemistry, <a href="https:/www.uh.cu/">Universidad de La Habana</a>
 <br><i>E-mail: bespinosaaco_at_mun.ca</i></li>
-</li>
+
 
 <li><b>Jillian March, M.Sc. student ( joint with <a href="http://www.esd.mun.ca/~amalcolm/">Dr. Alison Malcolm)</a></b> 
 <br>B.Sc.(Hon) Physics, <a href="http://www.mun.ca/">Memorial University</a> 
