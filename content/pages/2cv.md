@@ -1,15 +1,15 @@
-Title: About Kris
+Title: CV
 Date: 2024-02-25 11:20
-Category: About Kris
+Category: About
 Status: hidden
 
 
 <h1>Brief <i>curriculum vitae</i></h1>
 
 <h2>Education</h2>
-<li> Post-Doctoral Fellow in <a href="http://www.yorku.ca/smorin/research">surface electrochemistry</a> (2001-2003) <a href="http://www.yorku.ca">York University</a>, Toronto </li>
-<li> Ph.D. in <a href="http://www.chem.cornell.edu/fjd3/home.html">solid state physics</a> (1996-2000) <a href="http://www.cornell.edu">Cornell University</a>, Ithaca, NY, U.S.A.</li>
-<li> B.A. <i>magna cum laude</i>, major in <a href="http://webapps.acs.carleton.edu/curricular/physics/">physics</a> (1992-1996)  <a href="http://www.carleton.edu">Carleton College</a>,  Northfield, MN, U.S.A.</li>
+<li> Post-Doctoral Fellow in <a href="http://www.yorku.ca/smorin/research">surface electrochemistry</a> <a href="http://www.yorku.ca">York University</a>, Toronto </li>
+<li> Ph.D. in <a href="http://www.chem.cornell.edu/fjd3/home.html">solid state physics</a>  <a href="http://www.cornell.edu">Cornell University</a>, Ithaca, NY, U.S.A.</li>
+<li> B.A. <i>magna cum laude</i>, major in <a href="http://webapps.acs.carleton.edu/curricular/physics/">physics</a>  <a href="http://www.carleton.edu">Carleton College</a>,  Northfield, MN, U.S.A.</li>
 
 <h2>Academic Positions</h2>
 
@@ -37,7 +37,7 @@ Status: hidden
 
 <h2> Publications</h2>
 
-<li><a href ="/pages/publications.html"> Recent publications are listed here.</a></li>
+<li><a href ="research.html"> Recent publications are listed here.</a></li>
   
 <h2>Financial support for research (recent)</h2>
 
