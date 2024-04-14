@@ -55,8 +55,8 @@ Return to <a href="research.html">Research</a>
 <br> Ph.D. Physics, , <a href="http://www.mun.ca/">Memorial University</a>
 <br> M.Sc. Physics, <a href="https://www.hnbgu.ac.in/">Hemwati Nandan Bahuguna Garhwal University</a>
 <br> B.Sc.(Hon) Physics, <a href="https://www.du.ac.in/">University of Delhi</a>
-<br><i>E-mail: ssemwal_at_mun.ca</i></p>    
-        
+<br><i>E-mail: ssemwal_at_mun.ca</i></p>
+
 <p><b>Jack Taj, B.Sc. student </b>  
 <br><i>E-mail: ajtaj_at_mun.ca</i></p>
 
