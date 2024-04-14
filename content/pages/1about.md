@@ -9,7 +9,7 @@ Category: About
 
 <hr>
 
-I use physics to make complex problems more tractable.*  I enjoy working with <a href="research.html">interdisciplinary teams</a> on research questions related to improving environmental sustainability, including their science and social justice aspects.
+I use physics to make complex problems more tractable.*  I enjoy working with <a href="research.html">interdisciplinary teams</a> on research questions related to improving environmental sustainability, including their science and social justice aspects. <a href="research.html">Learn more about my activities here</a>.
 
 <p>
 
