@@ -1,12 +1,17 @@
 #AUTHOR = 'SS
-SITENAME = '<b>Dr. Kristin Poduska </b> <br> Professor </br>Memorial University of Newfoundland & Labrador </br>Experimental Materials Physics & Chemistry</br>'
-SITEURL = "https://kpoduska.github.io/PoduskaLab"
+SITENAME = 'Dr. Kristin Poduska'
+SITEURL = ""
+SITESUBTITLE = '<br> Professor </br>Memorial University of Newfoundland & Labrador </br>Experimental Materials Physics & Chemistry'
 
 PATH = "content"
 
 TIMEZONE = 'America/St_Johns'
 
 DEFAULT_LANG = 'English'
+
+THEME = 'notmyidea'
+ALLOW_DARKTHEME = True
+REMEMBER_DARKTHEME = True
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -32,5 +37,7 @@ AUTHOR_FEED_RSS = None
 
 DEFAULT_PAGINATION = 10
 
+STATIC_PATHS = ['images']
+
 # Uncomment following line if you want document-relative URLs when developing
-# RELATIVE_URLS = True
+RELATIVE_URLS = True
