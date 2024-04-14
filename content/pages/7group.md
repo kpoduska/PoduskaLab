@@ -6,20 +6,14 @@ Category: Group
 <div class = "small italics">
 Return to <a href="research.html">Research</a>
 </div>
-<p><br></p>
 <p><img src="../images/grp_photo2023small.jpeg" title="The Poduska group"height="400"></p>
-<p><br></p>
-<p><br>
-Students make this research possible! My research group benefits from students with diverse academic backgrounds, including physics, applied math, chemistry, engineering, earth science, and archaeology. Some students have had extensive research experience, while others are experiencing the thrills and challenges of research for the first time. </p>
+
+<p>Students make this research possible! My research group benefits from students with diverse academic backgrounds, including physics, applied math, chemistry, engineering, earth science, and archaeology. Some students have had extensive research experience, while others are experiencing the thrills and challenges of research for the first time. </p>
+
 <p>If you are interested learning more about research as part of <i>your</i> educational experience, please go here to <a href="research.html">find out what opportunities are currently available</a>. </p>
-<p><br></p>
+
 <h2>Current Research Team</h2>
 
-<!--<li><b>Tyler Bartlett, M.Sc. student </b>  (joint with <a href="https://www.mun.ca/physics/our_people/faculty/leblanc.php">Dr. James LeBlanc</a>) 
-<br> B.Sc. (Honours) Physics, <a href="http://www.mun.ca/">Memorial University</a>
-<br><i>E-mail: tsb504_at_mun.ca</i></li>
-</li>
--->
 <p>
 <b>Murad Almegdade, M.Env.Sci. student</b>
 <br>B.Sc. Geology/Earth Science, University of Jordan
@@ -50,26 +44,23 @@ Students make this research possible! My research group benefits from students w
 <br><i>E-mail: pmirzaei_at_mun.ca</i>
 </p>
 
-<p></p>
-        
-<li><b>Vikentiy Pashuk, B.Sc.(Hon) student  </b>  
-<br><i>E-mail: vpashuk_at_mun.ca</i></li>
-</li>
+<p><b>Vikentiy Pashuk, B.Sc.(Hon) student  </b>  
+<br><i>E-mail: vpashuk_at_mun.ca</i>
+</p>
 
-<li><b>Sashi Prasadh, B.Sc.(Hon) student  </b>  
-<br><i>E-mail: sprasadh_at_mun.ca</i></li>
-</li>    
-
-<li><b>Dr. Shivani Semwal, group manager  </b> 
+<p><b>Sashi Prasadh, B.Sc.(Hon) student  </b>  
+<br><i>E-mail: sprasadh_at_mun.ca</i></p>
+   
+<p><b>Dr. Shivani Semwal, group manager  </b> 
 <br> Ph.D. Physics, , <a href="http://www.mun.ca/">Memorial University</a>
 <br> M.Sc. Physics, <a href="https://www.hnbgu.ac.in/">Hemwati Nandan Bahuguna Garhwal University</a>
 <br> B.Sc.(Hon) Physics, <a href="https://www.du.ac.in/">University of Delhi</a>
-<br><i>E-mail: ssemwal_at_mun.ca</i></li>
-</li>       
+<br><i>E-mail: ssemwal_at_mun.ca</i></p>    
         
-<li><b>Jack Taj, B.Sc. student </b>  
-<br><i>E-mail: ajtaj_at_mun.ca</i></li>
-</li>
+<p><b>Jack Taj, B.Sc. student </b>  
+<br><i>E-mail: ajtaj_at_mun.ca</i></p>
+
+
 <h2><a href="alumni.html"> Where are the alumni of the Poduska Research group now?</a></h2>
 
 
