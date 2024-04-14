@@ -20,31 +20,37 @@ Students make this research possible! My research group benefits from students w
 <br><i>E-mail: tsb504_at_mun.ca</i></li>
 </li>
 -->
+<p>
 <b>Murad Almegdade, M.Env.Sci. student</b>
 <br>B.Sc. Geology/Earth Science, University of Jordan
 <br><i>E-mail: mmmalmegdade_at_mun.ca</i>
-
-<p></p>
-
-                
+</p>
+            
+<p>
 <b>Jake Breen, B.Sc. student </b>  
 <br><i>E-mail: jjbreen_at_mun.ca</i></li>
+</p>
 
-
+<p>
 <b>Brian Espinosa Acosta, M.Sc. student </b> 
 <br> B.Sc. Chemistry, <a href="https:/www.uh.cu/">Universidad de La Habana</a>
 <br><i>E-mail: bespinosaaco_at_mun.ca</i></li>
+</p>
 
-
-<li><b>Jillian March, M.Sc. student ( joint with <a href="http://www.esd.mun.ca/~amalcolm/">Dr. Alison Malcolm)</a></b> 
+<p>
+  <b>Jillian March, M.Sc. student ( joint with <a href="http://www.esd.mun.ca/~amalcolm/">Dr. Alison Malcolm)</a></b> 
 <br>B.Sc.(Hon) Physics, <a href="http://www.mun.ca/">Memorial University</a> 
-<br><i>E-mail: jsmarch_at_mun.ca</i></li>
-        
-<li><b>Parisa Mirzaei, M.Sc. student </b> (joint with <a href="https://www.physics.mun.ca/~saika/">Dr. Ivan Saika-Voivod</a>) 
+<br><i>E-mail: jsmarch_at_mun.ca</i>
+</p>
+
+<p>
+  <b>Parisa Mirzaei, M.Sc. student </b> (joint with <a href="https://www.physics.mun.ca/~saika/">Dr. Ivan Saika-Voivod</a>) 
 <br> M.Sc. Physics, <a href="https://   ut.ac.ir/">University of Tehran</a> 
 <br> B.Sc. Physics, <a href="https://english.semnan.ac.ir/">University of Semnan</a>
-<br><i>E-mail: pmirzaei_at_mun.ca</i></li>
-</li>
+<br><i>E-mail: pmirzaei_at_mun.ca</i>
+</p>
+
+<p></p>
         
 <li><b>Vikentiy Pashuk, B.Sc.(Hon) student  </b>  
 <br><i>E-mail: vpashuk_at_mun.ca</i></li>
