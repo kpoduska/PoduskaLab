@@ -2,7 +2,8 @@ Title: Advocacy
 Date: 2024-02-26 11:20
 Category: Advocacy
 
-<h2>For everyone</h2>
+<!--<h2>For everyone</h2>
+-->
 
 <li> I volunteer with the <a href="http://www.aaas.org/">American Association for the Advancement of Science</a> in the <a href="http://www.aaas.org/programs/scientific-responsibility-human-rights-law">Scientific Responsibility, Human Rights, and Law program</a> in affiliation with their <a href="http://www.aaas.org/programs/on-call-scientists">On-Call Scientists</a> initiative. View a webinar I moderated about <a href="https://www.youtube.com/watch?v=7KVQIoBDFqY">Science and Climate Change Litigation: A Dialog with Experts and Advocates</a></li>
 
@@ -16,7 +17,7 @@ As part of the 2020 <A href="https://www.cap.ca/programs/cap-lecture-tour/">Cana
 <li><a href="https://www.cap.ca/programs/cap-lecture-tour/2017-lecture-tour/2017-cap-lecture-tour-schedule/">Shark skin, butterfly wings, and lotus leaves: the physics of water on rough surfaces</a><br>
 As part of the 2017 <A href="https://www.cap.ca/programs/cap-lecture-tour/">Canadian Association of Physicists Lecture Tour</a>, I talked to public audiences and undergraduate physics students about how physics can be used to understand and create water-repellent surfaces.</li>
 
-<li>  <a href = "https://shivanisemwal.github.io/PoduskaLab_md/images/Shoesmith.pdf">The Nuclear Future: Can We Make It Safe?</a><br>
+<!-- <li>  <a href = "https://shivanisemwal.github.io/PoduskaLab_md/images/Shoesmith.pdf">The Nuclear Future: Can We Make It Safe?</a><br>
 Visiting speaker Prof. David Shoesmith talked about the science, geology, and public perception of nuclear waste disposal.</li>
 
 <li>  10 things you should know before (radiocarbon) dating<br>
@@ -60,7 +61,7 @@ funded through the <a href="http://www.nserc-crsng.gc.ca/Regional-Regionaux/Atla
 <li> <a href = "http://www.wisenl.ca">Women in Science and Engineering Summer Student Employment Program</a> for girls in high school Grade 11.</li>
 
 <li> MUN/Gonzaga High School STEP Co-op program</li>
-
+-->
 
 <hr>
 
