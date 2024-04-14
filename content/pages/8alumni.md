@@ -1,11 +1,11 @@
-Title: Group Alumni
+Title: Alumni
 Date: 2024-02-26 11:20
-Category: Group Alumni
+Category: Group
 Status: hidden
 
 <h1>Poduska Group Alumni </h1>
 <div class = "small italics">
-Return to <a href="https://shivanisemwal.github.io/PoduskaLab_md/pages/research.html">Research</a>
+Return to <a href="research.html">Research</a>
 </div>
 
 <br>
