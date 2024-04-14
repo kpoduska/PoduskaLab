@@ -2,7 +2,7 @@
 SITENAME = 'Poduska Research Lab'
 SITEURL = ""
 SITESUBTITLE = '<br> Dr. Kristin Poduska, Professor <br> Memorial University of Newfoundland & Labrador <br>Experimental Materials Physics & Chemistry'
-SITELOGO = 'images/cow.jpg'
+SITELOGO = 'images/munlogosmall.jpg'
 
 PATH = "content"
 
@@ -15,18 +15,20 @@ ALLOW_DARKTHEME = True
 REMEMBER_DARKTHEME = True
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
-TRANSLATION_FEED_ATOM = None
-AUTHOR_FEED_ATOM = None
-AUTHOR_FEED_RSS = None
+#FEED_ALL_ATOM = None
+#CATEGORY_FEED_ATOM = None
+#TRANSLATION_FEED_ATOM = None
+#AUTHOR_FEED_ATOM = None
+#AUTHOR_FEED_RSS = None
 
 
 # Blogroll
 LINKS_WIDGET_NAME = 'Links'
 LINKS = (
+    ("Memorial University Physics & Physical Oceanography", "https://www.mun.ca/chem"),
+    ("Memorial University Chemistry", "https://www.mun.ca/physics"),
     ("Pelican", "https://getpelican.com/"),
-   ("Python.org", "https://www.python.org/"),
+   ("Python.org", "https://www.python.org/"), 
    # ("Jinja2", "https://palletsprojects.com/p/jinja/"),
     #("You can modify those links in your config file", "#"),
 )
