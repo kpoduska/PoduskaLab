@@ -40,11 +40,11 @@ We also use high performance computing resources through <a href="http://www.acc
 
 <h2>Funding</h2>
 
-This work is supported by <a "cv.html">local and national funding agencies, as well as through industry collaborations</a>.
+This work is supported by <a href="cv.html">local and national funding agencies, as well as through industry collaborations</a>.
 
 <h2>Join us!</h2>
 
-Do you think this research is for you? <a href ="join.html">View this page</a> to learn about employment and studying opportunities.  <br>
+Do you think this research is for you? <a href ="projects.html">View this page</a> to learn about employment and studying opportunities.  <br>
 <br>
 
 <img src="../images/groupwalk2022.jpg" title="Group walk, August 2022"height="210">
