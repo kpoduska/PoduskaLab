@@ -18,7 +18,7 @@ For as long as humans have existed, we have used materials around us in creative
 
 
 <h2> Current projects</h2>
-We investigate materials with <a href ="projects.html">environmental, archaeological</a>, geological, and technological</a> applications. <p>
+We investigate materials with <a href ="projects.html">environmental, archaeological, geological, and technological</a> applications. <p>
 
 <h2> Publications</h2>
 View my full publication lists using <a href="https://orcid.org/0000-0003-4495-0668">ORCID</a>, <a href="https://scholar.google.ca/citations?user=cF0LuegAAAAJ&hl=en">Google Scholar</a>, and <a href="https://www.researchgate.net/profile/Kristin-Poduska">Research Gate</a>.<p>
@@ -47,7 +47,7 @@ This work is supported by <a href="cv.html">local and national funding agencies,
 Do you think this research is for you? <a href ="projects.html">View this page</a> to learn about employment and studying opportunities.  <br>
 <br>
 
-<img src="../images/groupwalk2022.jpg" title="Group walk, August 2022"height="210">
+<img src="../images/groupwalk2022.jpg" title="Group walk, August 2022" height="210">
 
 
 <HR>
