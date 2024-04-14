@@ -16,7 +16,7 @@ Return to <a href="research.html">Research</a>
 
 <TD width="60" height="60"  bgcolor="#999999" align="left" valign="center"  > <img src="../images/cracks.jpg" title="cracks in ice"width="60">  </TD>
 
-<TD width="*"  align="left" valign="center" >  Carbonate minerals are important sinks for atmospheric carbon dioxide, but their degradation can release the carbon dioxide back into the air or could contribute to pH changes in aqueous environments. This means that improving our understanding of processes such as ocean acidification, water remediation, and atmosphere-water interactions requires a better understanding of the complex interplay between carbonate minerals and their local environment.  <a href="research.html">We use laboratory experiments, as well as theoretical simulations, to investigate the evolution of and variations within carbonate mineral structures.</a>  <br><br> Collaborators include: <a href="https://chemistry.technion.ac.il/en/team/asher-schmidt/">Asher Schmidt</a> (Technion - Israel Institute of Technology), <a href="http://www.weizmann.ac.il/materials/Leeor/">Leeor Kronik</a> (Weizmann Institute of Science), <a href="https://www.physics.mun.ca/~saika/">Ivan Saika-Voivod</a> (Memorial Physics)
+<TD width="*"  align="left" valign="center" >  Carbonate minerals are important sinks for atmospheric carbon dioxide, but their degradation can release the carbon dioxide back into the air or could contribute to pH changes in aqueous environments. This means that improving our understanding of processes such as ocean acidification, water remediation, and atmosphere-water interactions requires a better understanding of the complex interplay between carbonate minerals and their local environment.  <a href="research.html">We use laboratory experiments, as well as theoretical simulations, to investigate the evolution of and variations within carbonate mineral structures.</a>  <br><br> Collaborators include: <a href="https://www.physics.mun.ca/~saika/">Ivan Saika-Voivod</a> and Entcho Demirov (Memorial Physics), Kelly Hawboldt (Memorial Engineering)
 </TD>
 </tr>
 </TABLE>
@@ -64,7 +64,7 @@ Return to <a href="research.html">Research</a>
 </p>
 </p>
 
-<h1>Other research projects</h1>
+<h1>Past research projects</h1>
 
 <a name = "Wettability"> </a> <h2>Water-repellent and ice-repellent coatings</h2>
 
