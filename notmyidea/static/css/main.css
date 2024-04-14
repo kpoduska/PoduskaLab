@@ -1,0 +1,593 @@
+/*
+	Name: Smashing HTML5
+	Date: July 2009
+	Description: Sample layout for HTML5 and CSS3 goodness.
+	Version: 1.0
+	License: MIT <https://opensource.org/licenses/MIT>
+	Licensed by: Smashing Media GmbH <https://www.smashingmagazine.com/>
+	Original author: Enrique Ramírez <http://enrique-ramirez.com/>
+*/
+
+/* Imports */
+@import url("reset.css");
+@import url("pygment.css");
+@import url("typogrify.css");
+@import url("fonts.css");
+
+/***** Global *****/
+/* Colors */
+:root.light{ /* we could use the functions from https://una.im/css-color-theming/ to automatically derive the intermediate colors. */
+	--strengthened-main-background: #fff;
+	--main-background: #F5F4EF;
+	--weakened-main-background: #F4E3E3;
+	--weakened-main-background-2: #EEEEEE;
+	--weakened-main-color: #444;
+	--weakened-main-color-2: #333;
+	--main-color: #000305;
+	--accent-color: hsl(354, 54%, 52%);
+}
+:root.dark{
+	--strengthened-main-background: #111;
+	--main-background: #323437;
+	--weakened-main-background: #444;
+	--weakened-main-background-2: #555;
+	--weakened-main-color: #BBB;
+	--weakened-main-color-2: #DADADA;
+	--main-color: #F3F3F3;
+	--accent-color: hsl(354, 54%, 52%);
+}
+
+/* Body */
+body {
+    background: var(--main-background);
+    color: var(--main-color);
+    font-size: 87.5%; /* Base font size: 14px */
+    font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+    line-height: 1.429;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+p, abbr, section li{
+	font-size: 108%;
+}
+
+/* Headings */
+h1 {font-size: 2em }
+h2 {font-size: 1.571em}	/* 22px */
+h3 {font-size: 1.429em}	/* 20px */
+h4 {font-size: 1.286em}	/* 18px */
+h5 {font-size: 1.143em}	/* 16px */
+h6 {font-size: 1em}		/* 14px */
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: 400;
+	line-height: 1.1;
+	margin-bottom: .8em;
+    font-family: 'Yanone Kaffeesatz', arial, serif;
+}
+
+h3, h4, h5, h6 { margin-top: .8em; }
+
+hr { border: 0.10em solid var(--weakened-main-background); }
+
+/* Anchors */
+a {outline: 0;}
+a img {border: 0px; text-decoration: none;}
+a:link, a:visited {
+	color: var(--accent-color);
+	padding: 0 1px;
+	text-decoration: underline;
+}
+a:hover, a:active {
+	background-color: var(--accent-color);
+	color: var(--strengthened-main-background);
+	text-decoration: none;
+	text-shadow: 1px 1px 1px var(--weakened-main-color-2);
+}
+
+banner a:hover h1, banner a:hover strong {
+    background-color: inherit
+}
+
+/* Paragraphs */
+div.line-block,
+p { margin-top: 1em;
+    margin-bottom: 1em;}
+
+strong, b {font-weight: 500;}
+em, i {font-style: italic;}
+
+/* Lists */
+ul {
+	list-style: outside disc;
+	margin: 0em 0 0 1.5em;
+}
+
+ol {
+	list-style: outside decimal;
+	margin: 0em 0 0 1.5em;
+}
+
+li { margin: 0.3em auto; }
+
+.post-info {
+    float: right;
+    margin: 1em;
+    padding: 0.5em;
+	font-family: 'Trebuchet MS';
+}
+
+.post-info p{
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
+
+dl {margin: 0 0 1.5em 0;}
+dt {font-weight: bold;}
+dd {margin-left: 1.5em;}
+
+pre{background-color: var(--weakened-main-background-2); padding: 10px; margin: 10px; overflow: auto;}
+
+/* Quotes */
+blockquote {
+    margin: 20px;
+    font-style: italic;
+}
+cite {}
+
+q {}
+
+div.note {
+   float: right;
+   margin:0.3em;
+   font-size: 85%;
+   max-width: 300px;
+}
+
+/* simple footnotes plugin */
+sup{
+	font-size: smaller;
+	vertical-align: super;
+}
+sup a.simple-footnote:link, sup a.simple-footnote:visited{
+	text-decoration: none;
+	font-weight: 400;
+}
+.simple-footnotes ::marker{
+	color: var(--accent-color);
+	font-weight: 400;
+}
+.simple-footnotes{
+	font-size: smaller;
+}
+
+
+/* Tables */
+table {margin: .5em auto 1.5em auto; width: 98%;}
+
+	/* Thead */
+	thead th {padding: .5em .4em; text-align: left;}
+	thead td {}
+
+	/* Tbody */
+	tbody td {padding: .5em .4em;}
+	tbody th {}
+
+	tbody .alt td {}
+	tbody .alt th {}
+
+	/* Tfoot */
+	tfoot th {}
+	tfoot td {}
+
+/* HTML5 tags */
+header, section, footer,
+aside, nav, article, figure {
+	display: block;
+	text-align: left;
+}
+
+/* Buttons */
+button{
+	color: var(--strengthened-main-background);
+	background: var(--main-color);
+	border-radius: 0.2em;
+	border: none;
+	cursor: pointer;
+}
+
+
+
+/***** Layout *****/
+.body {clear: both; margin: 0 auto;}
+img.right, figure.right, div.figure.align-right {
+    float: right;
+    margin: 0 0 2em 2em;
+}
+img.left, figure.left, div.figure.align-left {
+    float: left;
+    margin: 0 2em 2em 0;
+}
+
+/* .rst support */
+div.figure img, figure img {  /* to fill figure exactly */
+    width: 100%;
+}
+div.figure p.caption, figure p.caption { /* margin provided by figure */
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#content .body img, #content.body img{
+	width: 100%;
+}
+
+/*
+Dark-Theme Toggle 
+*****************/
+div.dark-theme-toggle{
+	position: absolute;
+	top: 0.5em;
+	right: 0.5em;
+}
+.dark-theme-toggle button{
+	font-size: large;
+}
+.dark .dark-theme-button,.light .light-theme-button{
+	display: none;
+}
+
+
+/*
+	Header
+*****************/
+#banner {
+	margin: 0 auto;
+	padding: 2.5em 0 0em 0;
+	text-align: center;
+}
+
+	/* Sitename */
+	a:link#sitename, a:visited#sitename{
+		color: var(--main-color);
+		display: block;
+		font-weight: bold;
+		padding: 0 0 .6em .2em;
+		margin: 0 auto;
+		text-decoration: none;
+		width: 800px;
+		max-width: 100%;
+		text-align: left;
+	}
+	a:hover#sitename, a:active#sitename {
+		background: none;
+		color: var(--accent-color);
+		text-shadow: none;
+		width: 800px;
+		max-width: 100%;
+	}
+	#sitename img {height: 5em; margin-right: 0.4em}
+	#sitename div {display: inline-block;}
+	#sitename h1 {font-size: 3.571em;}
+	#sitename h1, #sitename h3 {margin: initial;}
+
+	/* Main Nav */
+	#banner nav {
+		background: var(--accent-color);
+		font-size: 1.143em;
+		/* height: 40px; */
+		font-family: 'Trebuchet MS';
+		line-height: 30px;
+		padding: 0;
+		text-align: center;
+	}
+
+	#banner nav ul {
+		list-style: none; 
+		margin: 0 auto;
+	}
+	#banner nav li {
+		display: inline-block; 
+		margin: 0;
+	}
+
+	#banner nav a:link, #banner nav a:visited {
+		color: var(--strengthened-main-background);
+		display: inline-block;
+		height: 30px;
+		padding: 0.3em 1.5em;
+		text-decoration: none;
+	}
+	#banner nav a:hover, #banner nav a:active,
+	#banner nav .active a:link, #banner nav .active a:visited {
+		background: var(--weakened-main-color-2);
+		color: var(--strengthened-main-background);
+		text-shadow: none !important;
+	}
+
+
+/*
+	Featured
+*****************/
+#featured {
+	margin-bottom: 0.8em;
+}
+
+#featured figure {
+	border: 2px solid var(--weakened-main-background-2);
+	float: right;
+	margin: 0.786em 2em 0 5em;
+	width: 248px;
+}
+#featured figure img {display: block; float: right;}
+
+#featured h2 {color: var(--accent-color); font-size: 1.714em; margin-bottom: 0.333em;}
+#featured h3 {font-size: 1.429em; margin-bottom: .5em;}
+
+#featured h3 a:link, #featured h3 a:visited {color: var(--main-color); text-decoration: none;}
+#featured h3 a:hover, #featured h3 a:active {color: var(--strengthened-main-background);}
+
+/*
+	Body
+*****************/
+#content .body, #content.body{
+	background: var(--strengthened-main-background);
+	overflow: hidden;
+	padding: 20px 20px;
+	max-width: 760px;
+}
+
+#content.withbanner {
+	margin-top: 0.8em;
+}
+
+@media (min-width: 820px) {
+	#content {
+		margin-top: 1.2em;
+	}
+	
+	#content.withbanner {
+		margin-top: 1.2em;
+		/* Für breites Banner:
+		margin-top: 0em;
+		*/
+	}
+
+	#content .body, #content.body{
+		border-radius: 10px;
+		-moz-border-radius: 10px;
+		-webkit-border-radius: 10px;
+	}
+	#content.withbanner .body.first{
+		margin-top: -4.75em;
+	}
+
+	#featured {
+		margin-bottom: 1.5em;
+	}
+}
+
+div.bannerpic {
+	text-align: center;
+	margin: 0 auto;
+
+	background-size: contain;
+	background-position: center 0;
+	background-repeat: no-repeat;
+
+	/* Für breites Banner:
+	background-size: cover;
+	background-position: center center;
+	*/
+}
+.bannerpic img{
+	visibility: hidden;
+	max-width: 100%;
+	max-height: 30em;
+	margin-bottom: -5px;
+}
+
+/*
+	Extras
+*****************/
+#extras {
+	margin: 0 auto 3em auto;
+	max-width: 800px;
+	font-family: 'Trebuchet MS';
+}
+
+#extras ul {list-style: none; margin: 0;}
+#extras li {
+	border-bottom: 1px solid var(--strengthened-main-background);
+}
+#extras h2 {
+	color: var(--accent-color);
+	font-size: 1.429em;
+	margin-bottom: .25em;
+	padding: 0 3px;
+}
+
+#extras a:link, #extras a:visited {
+	color: var(--weakened-main-color);
+	display: block;
+	border-bottom: 1px solid var(--weakened-main-background);
+	text-decoration: none;
+	padding: .3em .25em;
+}
+
+#extras a:hover, #extras a:active {color: var(--strengthened-main-background);}
+
+	/* Blogroll */
+	#extras .blogroll {
+		max-width: 600px;
+		margin-top: 2em;
+		display: inline-block;
+		vertical-align: top;
+	}
+
+	#extras .blogroll li {
+		margin: 0 20px 0 0;
+		width: 180px;
+		display: inline-block;
+	}
+
+	/* Social */
+	#extras .social {
+		width: 180px;
+		margin-top: 2em;
+		display: inline-block;
+		vertical-align: top;
+	}
+
+	#extras div[class='social'] a {
+		background-repeat: no-repeat;
+		background-position: 3px 6px;
+		padding-left: 25px;
+	}
+
+		/* Icons */
+		.social a[href*='about.me'] {background-image: url('../images/icons/aboutme.png');}
+		.social a[href*='bitbucket.org'] {background-image: url('../images/icons/bitbucket.png');}
+		.social a[href*='delicious.com'] {background-image: url('../images/icons/delicious.png');}
+		.social a[href*='facebook.com'] {background-image: url('../images/icons/facebook.png');}
+		.social a[href*='gitorious.org'] {background-image: url('../images/icons/gitorious.png');}
+		.social a[href*='github.com'],
+		.social a[href*='git.io'] {
+			background-image: url('../images/icons/github.png');
+			background-size: 16px 16px;
+		}
+		.social a[href*='gittip.com'] {background-image: url('../images/icons/gittip.png');}
+		.social a[href*='plus.google.com'] {background-image: url('../images/icons/google-plus.png');}
+		.social a[href*='groups.google.com'] {background-image: url('../images/icons/google-groups.png');}
+		.social a[href*='news.ycombinator.com'],
+		.social a[href*='hackernewsers.com'] {background-image: url('../images/icons/hackernews.png');}
+		.social a[href*='last.fm'], .social a[href*='lastfm.'] {background-image: url('../images/icons/lastfm.png');}
+		.social a[href*='linkedin.com'] {background-image: url('../images/icons/linkedin.png');}
+		.social a[href*='reddit.com'] {background-image: url('../images/icons/reddit.png');}
+		.social a[type$='atom+xml'], .social a[type$='rss+xml'] {background-image: url('../images/icons/rss.png');}
+		.social a[href*='slideshare.net'] {background-image: url('../images/icons/slideshare.png');}
+		.social a[href*='speakerdeck.com'] {background-image: url('../images/icons/speakerdeck.png');}
+		.social a[href*='stackoverflow.com'] {background-image: url('../images/icons/stackoverflow.png');}
+		.social a[href*='twitter.com'] {background-image: url('../images/icons/twitter.png');}
+		.social a[href*='vimeo.com'] {background-image: url('../images/icons/vimeo.png');}
+		.social a[href*='youtube.com'] {background-image: url('../images/icons/youtube.png');}
+		.social a[href*='mailto:'] {background-image: url('../images/email.svg');background-size: 16px auto; background-position-y: 6.5px !important;}
+
+/*
+	About
+*****************/
+#about {
+	background: var(--strengthened-main-background);
+	font-style: normal;
+	margin-bottom: 2em;
+	overflow: hidden;
+	padding: 20px;
+	text-align: left;
+	width: 760px;
+
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
+
+#about .primary {float: left; width: 165px;}
+#about .primary strong {color: var(--accent-color); display: block; font-size: 1.286em;}
+#about .photo {float: left; margin:0.3em 20px;}
+
+#about .url:link, #about .url:visited {text-decoration: none;}
+
+#about .bio {float: right; width: 500px;}
+
+/*
+	Footer
+*****************/
+#copyright {
+	padding-bottom: 0.8em;
+	text-align: right;
+	max-width: 900px;
+}
+#copyright p {
+	font-size: 97%;
+}
+
+/***** Sections *****/
+/* Blog */
+.hentry {
+	display: block;
+	clear: both;
+	border-top: 0.2em solid var(--accented-main-background);
+	padding: 1.5em 0;
+}
+li:first-child .hentry, #content > .hentry {border: 0; margin: 0;}
+#content > .hentry {padding: 1em 0;}
+.hentry img{display : none ;}
+.entry-title {font-size: 3em; margin-bottom: 10px; margin-top: 0;}
+.entry-title a:link, .entry-title a:visited {text-decoration: none; color: var(--weakened-main-color-2);}
+.entry-title a:visited {background-color: var(--strengthened-main-background);}
+
+.hentry .post-info * {font-style: normal;}
+
+	/* Content */
+	.hentry footer {margin-bottom: 2em;}
+	.hentry footer address {display: inline;}
+	#posts-list footer address {display: block;}
+
+	/* Blog Index */
+	#posts-list {list-style: none; margin: 0;}
+	#posts-list .hentry {padding-left: 10px; position: relative;}
+
+	/* About the Author */
+	#about-author {
+		background: var(--strengthened-main-background);
+		clear: both;
+		font-style: normal;
+		margin: 2em 0;
+		padding: 10px 20px 15px 20px;
+
+		border-radius:0.3em;
+		-moz-border-radius:0.3em;
+		-webkit-border-radius:0.3em;
+	}
+
+	#about-author strong {
+		color: var(--accent-color);
+		clear: both;
+		display: block;
+		font-size: 1.429em;
+	}
+
+	#about-author .photo {border: 1px solid #ddd; float: left; margin:0.3em 1em 0 0;}
+
+	/* Comments */
+	#comments-list {list-style: none; margin: 0 1em;}
+	#comments-list blockquote {
+		background: #f8f8f8;
+		clear: both;
+		font-style: normal;
+		margin: 0;
+		padding: 15px 20px;
+
+		border-radius:0.3em;
+		-moz-border-radius:0.3em;
+		-webkit-border-radius:0.3em;
+	}
+	#comments-list footer {color: #888; padding: .5em 1em 0 0; text-align: right;}
+
+	#comments-list li:nth-child(2n) blockquote {background: #F5f5f5;}
+
+	/* Add a Comment */
+	#add-comment label {clear: left; float: left; text-align: left; width: 150px;}
+	#add-comment input[type='text'],
+	#add-comment input[type='email'],
+	#add-comment input[type='url'] {float: left; width: 200px;}
+
+	#add-comment textarea {float: left; height: 150px; width: 495px;}
+
+	#add-comment p.req {clear: both; margin: 0 .5em 1em 0; text-align: right;}
+
+	#add-comment input[type='submit'] {float: right; margin: 0 .5em;}
+	#add-comment * {margin-bottom: .5em;}

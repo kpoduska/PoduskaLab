@@ -1,0 +1,21 @@
+{% if page %}
+    {% if page.articlepic %}
+    <div style="background-image: url('{{ SITEURL }}/{{ page.articlepic }}')" class="bannerpic"> 
+        <img src="{{ SITEURL }}/{{ page.articlepic }}" />
+    </div>
+    {% elif DEFAULT_BANNER_PIC %}
+    <div style="background-image: url('{{ SITEURL }}/{{ DEFAULT_BANNER_PIC }}')" class="bannerpic"> 
+        <img src="{{ SITEURL }}/{{ DEFAULT_BANNER_PIC }}" />
+    </div>
+    {% endif %}
+{% elif article %}
+    {% if article.articlepic %}
+        <div style="background-image: url('{{ SITEURL }}/{{ article.articlepic }}')" class="bannerpic"> 
+            <img src="{{ SITEURL }}/{{ article.articlepic }}" />
+        </div>
+    {% elif DEFAULT_BANNER_PIC %}
+        <div style="background-image: url('{{ SITEURL }}/{{ DEFAULT_BANNER_PIC }}')" class="bannerpic"> 
+            <img src="{{ SITEURL }}/{{ DEFAULT_BANNER_PIC }}" />
+        </div>
+    {% endif %}
+{% endif %}

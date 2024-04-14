@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="{% block html_lang %}{{ DEFAULT_LANG }}{% endblock html_lang %}" class="light">
+<head>
+        {% block head %}
+        <meta charset="utf-8" />
+        <meta name="generator" content="Pelican" />
+        <title>{% block title %}{{ SITENAME }}{%endblock%}</title>
+        {% if ICON_URL %}
+        <link rel="icon" href="{{ SITEURL }}/{{ ICON_URL }}" type="image/x-icon">
+        {% endif %}
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/{{ CSS_FILE }}" />
+        {% if FEED_ALL_ATOM %}
+        <link href="{{ FEED_DOMAIN }}/{% if FEED_ALL_ATOM_URL %}{{ FEED_ALL_ATOM_URL }}{% else %}{{ FEED_ALL_ATOM }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom Feed" />
+        {% endif %}
+        {% if FEED_ALL_RSS %}
+        <link href="{{ FEED_DOMAIN }}/{% if FEED_ALL_RSS_URL %}{{ FEED_ALL_RSS_URL }}{% else %}{{ FEED_ALL_RSS }}{% endif %}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" />
+        {% endif %}
+        {% block extra_head %}{% endblock extra_head %}
+        {% endblock head %}
+</head>
+
+<body id="index" class="home">
+        {% include 'github.html' %}
+        {% include 'darktheme.html' %}
+        <header id="banner" class="body">
+                <a href="{{ SITEURL }}/index.html" id="sitename" title="Start page">
+                        {% if SITELOGO %}
+                        <img src="{{ SITEURL }}/{{ SITELOGO }}" alt="Logo"/>
+                        {% endif %}
+                        <div>
+                                <h1>{{ SITENAME }}</h1> 
+                                {% if SITESUBTITLE %}<h3>{{ SITESUBTITLE }}</h3>{% endif %}
+                        </div>
+                </a>
+                <nav><ul>
+                {% for title, link in MENUITEMS %}<li><a href="{{ link }}">{{ title }}</a></li>{% endfor %}
+                {% if DISPLAY_PAGES_ON_MENU -%}
+                {% for pg in pages %}<li{% if pg == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ pg.url }}">{{ pg.title }}</a></li>{% endfor %}
+                {% endif %}
+                {% if DISPLAY_CATEGORIES_ON_MENU -%}
+                {% for cat, null in categories %}<li{% if cat == category and page_name %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>{% endfor %}
+                {% endif %}
+                </ul></nav>
+        </header><!-- /#banner -->
+        {% block content %}
+        {% endblock %}
+        <section id="extras">
+        {% if LINKS %}
+                <div class="blogroll">
+                        <h2>{{ LINKS_WIDGET_NAME | default('links') }}</h2>
+                        <ul>
+                        {% for name, link in LINKS %}<li><a href="{{ link }}">{{ name }}</a></li>{% endfor %}
+                        </ul>
+                </div><!-- /.blogroll -->
+        {% endif %}
+        {% if SOCIAL or FEED_ALL_ATOM or FEED_ALL_RSS %}
+                <div class="social">
+                        <h2>{{ SOCIAL_WIDGET_NAME | default('social') }}</h2>
+                        <ul>
+                            {% if FEED_ALL_ATOM %}
+                            <li><a href="{{ FEED_DOMAIN }}/{% if FEED_ALL_ATOM_URL %}{{ FEED_ALL_ATOM_URL }}{% else %}{{ FEED_ALL_ATOM }}{% endif %}" type="application/atom+xml" rel="alternate">atom feed</a></li>
+                            {% endif %}
+                            {% if FEED_ALL_RSS %}
+                            <li><a href="{{ FEED_DOMAIN }}/{% if FEED_ALL_RSS_URL %}{{ FEED_ALL_RSS_URL }}{% else %}{{ FEED_ALL_RSS }}{% endif %}" type="application/rss+xml" rel="alternate">rss feed</a></li>
+                            {% endif %}
+
+                        {% for name, link, encrypted in SOCIAL %}
+                            {% if encrypted %}
+                            <li><a href="" class="decrypt" encrypted='{{ link }}'>{{ name }}</a>
+                                <noscript>Enable Javascript to get access to email addresses (This is a countermeasure against spam bots).</noscript></li>
+                            {% else %}
+                            <li><a href="{{ link }}">{{ name }}</a></li>
+                            {% endif %}
+                        {% endfor %}
+                        </ul>
+                </div><!-- /.social -->
+        {% endif %}
+        </section><!-- /#extras -->
+        <footer id="copyright" class="body">
+                <p>
+                {% if PHOTOGRAPHER %} All photos on this page are by
+                        {% if PHOTOGRAPHER_URL %} <a href="{{ PHOTOGRAPHER_URL }}">{{ PHOTOGRAPHER }}</a>{% else %}{{ PHOTOGRAPHER }}{% endif %}.<br/>
+                {% endif %}
+                The Font Roboto is licensed under the <a href="/theme/static/fonts/Apache-LICENSE-2.0.txt">Apache License, Version 2.0</a>. You can find the project <a href="https://github.com/googlefonts/roboto">here</a>.<br/>
+                The Font Yanone Kaffeesatz is licensed under the <a href="/theme/static/fonts/Yanone_Kaffeesatz-License-OFL.txt">SIL Open Font License, Version 1.1</a> and copyrighted by The Yanone Kaffeesatz Project Authors.  You can find the project <a href="https://github.com/alexeiva/yanone-kaffeesatz">here</a>.<br/>
+                Thank you!</p>
+        </footer><!-- /#copyright -->
+
+        {% include 'email_protection.html' %}
+</body>
+</html>
