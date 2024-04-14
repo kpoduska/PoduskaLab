@@ -1,4 +1,4 @@
-Title: Home
+Title: About
 Date: 2024-02-25 10:20
 Category: About
 
@@ -9,7 +9,7 @@ Category: About
 
 <hr>
 
-I use physics to make complex problems more tractable.*  I enjoy working with <a href="https://kpoduska.github.io/PoduskaLab/pages/research.html">interdisciplinary teams</a> on research questions related to improving environmental sustainability, including their science and social justice aspects.
+I use physics to make complex problems more tractable.*  I enjoy working with <a href="research.html">interdisciplinary teams</a> on research questions related to improving environmental sustainability, including their science and social justice aspects.
 
 <p>
 
