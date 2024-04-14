@@ -2,7 +2,7 @@ Title: Home
 Date: 2024-02-25 10:20
 Category: About
 
-<p><img src="images/kp.jpg" title ="Photo of Kris Poduska" alt="Photo of Kris Poduska" width="187">  <br></p>
+<p><img src="../images/kp.jpg" title ="Photo of Kris Poduska" alt="Photo of Kris Poduska" width="187">  <br></p>
 <p><i>Ph.D. <a href="http://www.cornell.edu">Cornell University</a> <br></p>
 <p>B.A. <a href="http://www.carleton.edu">Carleton College</a> </i><br></p>
 <p>
