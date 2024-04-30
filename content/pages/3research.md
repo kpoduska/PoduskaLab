@@ -21,7 +21,7 @@ For as long as humans have existed, we have used materials around us in creative
 We investigate materials with <a href ="projects.html">environmental, archaeological, geological, and technological</a> applications. <p>
 
 <h2> Publications</h2>
-View my full publication lists using <a href="https://orcid.org/0000-0003-4495-0668">ORCID</a>, <a href="https://scholar.google.ca/citations?user=cF0LuegAAAAJ&hl=en">Google Scholar</a>, and <a href="https://www.researchgate.net/profile/Kristin-Poduska">Research Gate</a>.<p>
+View my full publication lists using <a href="https://orcid.org/0000-0003-4495-0668">ORCID</a>, <a href="https://scholar.google.ca/citations?user=cF0LuegAAAAJ&hl=en">Google Scholar</a>, and <a href="https://www.researchgate.net/profile/Kristin-Poduska">Research Gate</a>. Many of these articles are open access or freely available through <a href="https://research.library.mun.ca/view/creator_az/Poduska=3AKristin_M=2E=3A=3A.html">Memorial University's Research Repository.</a><p>
 
 <!--Read about <a href ="https://kpoduska.github.io/PoduskaLab/pages/publications.html">our recent findings, including press releases</a>.-->
 
