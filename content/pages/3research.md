@@ -26,7 +26,7 @@ View my full publication lists using <a href="https://orcid.org/0000-0003-4495-0
 <!--Read about <a href ="https://kpoduska.github.io/PoduskaLab/pages/publications.html">our recent findings, including press releases</a>.-->
 
 <h2> The Group</h2>
-<a href ="group.html"> My research team</a> includes chemists, physicists, earth scientists, engineers, archaeologists, and mathematicians. See what <a href ="alumni.html">past group members</a> have gone on to do. <p>
+<a href ="group.html"> My research team</a> includes chemists, physicists, earth scientists, engineers, archaeologists, and mathematicians. See what <a href ="alumni.html">past group members</a> have gone on to do. Our <a href="https://osf.io/f7wty/">private group wiki</a> is hosted on Open Science Framework (restricted access). <p> 
 
 <!--<h2> Lab Tour </h2>
 
