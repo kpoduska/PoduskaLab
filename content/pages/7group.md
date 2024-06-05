@@ -57,7 +57,7 @@ Return to <a href="research.html">Research</a>
 <br> B.Sc.(Hon) Physics, <a href="https://www.du.ac.in/">University of Delhi</a>
 <br><i>E-mail: ssemwal_at_mun.ca</i></p>
 
-<p><b>Amer Taj, B.Sc. student </b>  
+<p><b>Jack Taj, B.Sc. student </b>  
 <br><i>E-mail: ajtaj_at_mun.ca</i></p>
 
 
