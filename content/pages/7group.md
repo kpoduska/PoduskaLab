@@ -6,7 +6,7 @@ Category: Group
 <div class = "small italics">
 Return to <a href="research.html">Research</a>
 </div>
-<p><img src="../images/grp_photo2023small.jpeg" title="The Poduska group" width=100% height=100%></p>
+<p><img src="../images/grp_photo2023small.jpeg" title="The Poduska group" width=75% height=75%></p>
 <!---Original: Height = "400" --->
 
 <p>Students make this research possible! My research group benefits from students with diverse academic backgrounds, including physics, applied math, chemistry, engineering, earth science, and archaeology. Some students have had extensive research experience, while others are experiencing the thrills and challenges of research for the first time. </p>
