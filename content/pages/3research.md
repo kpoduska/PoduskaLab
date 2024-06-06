@@ -47,7 +47,7 @@ This work is supported by <a href="cv.html">local and national funding agencies,
 Do you think this research is for you? <a href ="projects.html">View this page</a> to learn about employment and studying opportunities.  <br>
 <br>
 
-<img src="../images/groupwalk2022.jpg" title="Group walk, August 2022" width=80% height=80%> 
+<img src="../images/groupwalk2022.jpg" title="Group walk, August 2022" width=100% height=100%> 
 <!--- Original: Height = 210 --->
 
 
