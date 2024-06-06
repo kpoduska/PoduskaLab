@@ -1,7 +1,7 @@
 Title: Teaching
 Date: 2024-04-14 16:20
 Category: Teaching
-
+Status: hidden
 
 <h2>Recent courses</h2>
 
