@@ -87,18 +87,6 @@ Return to <a href="research.html">Research</a>
 </TABLE>
 
 
-<a name = "Biomaterials"></a> <h2>Bone-like biomaterials</h2>
-
-<TABLE border="0" cellpadding="4" cellspacing="10" >
-<TR align="left" > 
-
-<TD width="60" height="60"  bgcolor="#999999" align="left" valign="center"  > <img src="../images/collagen.jpg" title="collagen fibrils"width="60">  </TD>
-
-<TD width="*"  align="left" valign="center" >  Coatings that mimic the composition of natural biomaterials
-have a wide range of potential medical applications. For example, hydroxyapatite (Ca<sub>10</sub>(PO<sub>4</sub>)<sub>6</sub>(OH)<sub>2</sub>) is a compound that has been studied extensively because of its resemblance to the mineral phase in bone. Adding collagen or other proteins to mineral coatings to form a bioinorganic composite material can increase the biocompatibility of the coating. <a href="research.html">We use electrochemical methods to make mineral films and collagen membranes, and we study the mineral-protein symbiosis involved in making biocomposite coatings.</a> <br><br> Collaborators include: <a href="https://www.mun.ca/faculty/emerschrod/">Erika Merschrod</a> (Memorial Chemistry), <a href="http://www.med.mun.ca/Medicine/Faculty/Gendron,-Robert.aspx">Bob Gendron</a> and  <a href="http://www.med.mun.ca/Medicine/Faculty/Paradis,-Helene.aspx">Helene Paradis</a> (Memorial Medicine), <a href="https://islandscholar.ca/people/lmcduffee">Laurie McDuffee</a> (Atlantic Veterinary College and University of Prince Edward Island)</TD>
-</tr>
-</TABLE>
-
 <a name = "Patterns"></a>  <h2>Pattern formation in colloidal crystals</h2>
 
 <TABLE border="0" cellpadding="4" cellspacing="10" >
@@ -108,6 +96,18 @@ have a wide range of potential medical applications. For example, hydroxyapatite
 
 <TD width="*"  align="left" valign="center" >  <a href="research.html">We use self-assembly of colloidal microspheres to explore the fundamental properties of crystallization.</a> Applications can be in photonic band gap crystals, optical sensors and antireflection coatings. Their periodic lattices can also serve as a template to make magnetic patterns, with potential applications as magnetic memory storage materials.  <br><br> Collaborators include: <a href="https://softmaterials.ca/">Anand Yethiraj</a> and <a href="http://www.physics.mun.ca/~plumer">Martin Plumer</a> (Memorial Physics)
 </TD>
+</tr>
+</TABLE>
+
+<a name = "Biomaterials"></a> <h2>Bone-like biomaterials</h2>
+
+<TABLE border="0" cellpadding="4" cellspacing="10" >
+<TR align="left" > 
+
+<TD width="60" height="60"  bgcolor="#999999" align="left" valign="center"  > <img src="../images/collagen.jpg" title="collagen fibrils"width="60">  </TD>
+
+<TD width="*"  align="left" valign="center" >  Coatings that mimic the composition of natural biomaterials
+have a wide range of potential medical applications. For example, hydroxyapatite (Ca<sub>10</sub>(PO<sub>4</sub>)<sub>6</sub>(OH)<sub>2</sub>) is a compound that has been studied extensively because of its resemblance to the mineral phase in bone. Adding collagen or other proteins to mineral coatings to form a bioinorganic composite material can increase the biocompatibility of the coating. <a href="research.html">We use electrochemical methods to make mineral films and collagen membranes, and we study the mineral-protein symbiosis involved in making biocomposite coatings.</a> <br><br> Collaborators include: <a href="https://www.mun.ca/faculty/emerschrod/">Erika Merschrod</a> (Memorial Chemistry), <a href="http://www.med.mun.ca/Medicine/Faculty/Gendron,-Robert.aspx">Bob Gendron</a> and  <a href="http://www.med.mun.ca/Medicine/Faculty/Paradis,-Helene.aspx">Helene Paradis</a> (Memorial Medicine), <a href="https://islandscholar.ca/people/lmcduffee">Laurie McDuffee</a> (Atlantic Veterinary College and University of Prince Edward Island)</TD>
 </tr>
 </TABLE>
 
