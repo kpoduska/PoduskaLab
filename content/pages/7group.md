@@ -33,7 +33,7 @@ Return to <a href="research.html">Research</a>
 </p>
 
 <p>
-  <b>Jillian March, M.Sc. student ( joint with <a href="http://www.esd.mun.ca/~amalcolm/">Dr. Alison Malcolm)</a></b> 
+  <b>Jillian March, M.Sc. student (joint with <a href="http://www.esd.mun.ca/~amalcolm/">Dr. Alison Malcolm)</a></b> 
 <br>B.Sc.(Hon) Physics, <a href="http://www.mun.ca/">Memorial University</a> 
 <br><i>E-mail: jsmarch_at_mun.ca</i>
 </p>
@@ -45,20 +45,12 @@ Return to <a href="research.html">Research</a>
 <br><i>E-mail: pmirzaei_at_mun.ca</i>
 </p>
 
-<p><b>Vikentiy Pashuk, B.Sc.(Hon) student  </b>  
-<br><i>E-mail: vpashuk_at_mun.ca</i>
+<p><b>Kyle Pike, B.Sc.(Hon) student (joint with <a href="https://www.physics.mun.ca/~entcho/">Dr. Entcho Demirov</a></b>  
+<br><i>E-mail: kallanp_at_mun.ca</i>
 </p>
 
-<p><b>Sashi Prasadh, B.Sc.(Hon) student  </b>  
-<br><i>E-mail: sprasadh_at_mun.ca</i></p>
-   
-<p><b>Dr. Shivani Semwal, group manager  </b> 
-<br> Ph.D. Physics, , <a href="http://www.mun.ca/">Memorial University</a>
-<br> M.Sc. Physics, <a href="https://www.hnbgu.ac.in/">Hemwati Nandan Bahuguna Garhwal University</a>
-<br> B.Sc.(Hon) Physics, <a href="https://www.du.ac.in/">University of Delhi</a>
-<br><i>E-mail: ssemwal_at_mun.ca</i></p>
-
-<p><b>Jack Taj, B.Sc. student </b>  
+<p><b>Jack Taj, M.Sc. student </b> 
+<br>B.Sc.(Hon) Physics,  <a href="http://www.mun.ca/">Memorial University</a>
 <br><i>E-mail: ajtaj_at_mun.ca</i></p>
 
 
