@@ -16,7 +16,7 @@ Return to <a href="research.html">Research</a>
 
 <TD width="60" height="60"  bgcolor="#999999" align="left" valign="center"  > <img src="../images/calcite.jpg" title="birefringent calcite"width="60">  </TD>
 
-<TD width="*"  align="left" valign="center" >  Carbonate minerals are important sinks for atmospheric carbon dioxide, but their degradation can release the carbon dioxide back into the air or could contribute to pH changes in aqueous environments. This means that improving our understanding of processes such as ocean acidification, water remediation, and atmosphere-water interactions requires a better understanding of the complex interplay between carbonate minerals and their local environment.  <a href="research.html">We use laboratory experiments, as well as theoretical simulations, to investigate the evolution of and variations within carbonate mineral structures.</a>  <br><br> Collaborators include: <a href="https://www.physics.mun.ca/~saika/">Ivan Saika-Voivod</a> and <a href="https://www.physics.mun.ca/~entcho/">Entcho Demirov</a> (Memorial Physics), <a href="https://www.mun.ca/engineering/about/our-people/kelly-hawboldt/">Kelly Hawboldt</a> (Memorial Engineering)
+<TD width="*"  align="left" valign="center" >  Carbonate minerals are important sinks for atmospheric carbon dioxide, but their degradation can release the carbon dioxide back into the air or could contribute to pH changes in aqueous environments. This means that improving our understanding of processes such as ocean acidification, water remediation, and atmosphere-water interactions requires a better understanding of the complex interplay between carbonate minerals and their local environment.  <a href="research.html">We use laboratory experiments, as well as theoretical simulations and modelling, to investigate the evolution of and variations within carbonate mineral structures.</a>  <br><br> Collaborators include: <a href="https://www.physics.mun.ca/~saika/">Ivan Saika-Voivod</a> and <a href="https://www.physics.mun.ca/~entcho/">Entcho Demirov</a> (Memorial Physics), <a href="https://www.mun.ca/engineering/about/our-people/kelly-hawboldt/">Kelly Hawboldt</a> (Memorial Engineering)
 </TD>
 </tr>
 </TABLE>
@@ -33,6 +33,10 @@ Return to <a href="research.html">Research</a>
 </TD>
 </tr>
 </TABLE>
+</p>
+</p>
+
+<h1>Past research projects</h1>
 
 <a name = "Geology"> </a> <h2>Remote mineral detection</h2>
 
@@ -56,15 +60,7 @@ Return to <a href="research.html">Research</a>
 <TD width="*"  align="left" valign="center" >  Archaeology makes extensive use of scientific analyses of materials collected from ancient sites. Microscopic and nanoscopic level investigations reveal important clues about specimen composition, formation, and changes that may have occurred to it over time. <a href="research.html">We use spectroscopy and other material characterization techniques to identify archaeological materials and to assess the impact of diagenetic processes.</a> (Read more about this approach <a href="http://dx.doi.org/10.1038/468614a">here</a> and <a href="http://dx.doi.org/10.1126/science.330.6010.1472-a">here</a>.)<br><br> Collaborators include: <a href="https://www.mun.ca/archaeology/people/faculty/mburchell.php">Meghan Burchell</a> (Memorial Archaeology), as well as <a href="http://www.weizmann.ac.il/Sci-Arch/Boaretto/">Elisabetta Boaretto</a> (Weizmann Institute of Science) and <a href="https://orcid.org/0000-0001-5894-4301">Michael Toffolo</a> (Centro Nacional de Investigación sobre la Evolución Humana)<br> 
 </TD>
 </tr>
-</TABLE> 
-
-
-
-
-</p>
-</p>
-
-<h1>Past research projects</h1>
+</TABLE>
 
 <a name = "Wettability"> </a> <h2>Water-repellent and ice-repellent coatings</h2>
 
