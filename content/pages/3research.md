@@ -42,6 +42,7 @@ We also use high performance computing resources through <a href="http://www.acc
 <h2>Funding</h2>
 
 This work is supported by <a href="cv.html">local and national funding agencies, as well as through industry collaborations</a>.
+ <p>
 
 <h2>Join us!</h2>
 
