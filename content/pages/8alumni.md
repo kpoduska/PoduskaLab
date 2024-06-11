@@ -146,6 +146,9 @@ became a pediatrician after getting an M.D. at <a href="http://www.mun.ca/">Memo
 
 <h2>Cool careers that you might not think of!</h2>
 
+<li> <b>Shivani Semwal (Group Manager, 2023-2024 joint with <a href="https://softmaterials.ca/">Dr. Anand Yethiraj</a></b> <br>
+  became an optics researcher at the <a href="https://nrc.canada.ca/en/">National Research Council of Canada </a></li>
+
 <li><b>Justin Elms (M.Sc. Physics, 2018) </b> <br>
 became a physical scientist at the <a href="https://www.dfo-mpo.gc.ca/">Department of Fisheries and Oceans</a> <br>after being a research intern at <a href="https://www.cna.nl.ca/">College of the North Atlantic</a></li>
 
@@ -170,6 +173,9 @@ became a supply chain manager at KCA Deutag</li>
 
 
 <h2>Advanced degrees</h2>
+
+<li><b>Vikentiy Pashuk (B.Sc. (Honours) Physics, 2024)</b> <br>
+became an MSc candidate in Mechanical Engineering at <a href="http://www.mun.ca/">Memorial University</a> </li>
 
 <li><b>Marisa Dusseault (B.Sc. (Honours) Physics/Archaeology, 2019; M.Sc. Physics, 2021)</b> <br>
 became a PhD candidate in Earth Sciences at <a href="http://www.ualberta.ca/">University of Alberta</a> </li>
@@ -202,7 +208,18 @@ became a post-doctoral fellow at the <a href="http://wyss.harvard.edu">Harvard U
 
 <!--
 
+<p><b>Vikentiy Pashuk, B.Sc.(Hon) student  </b>  
+<br><i>E-mail: vpashuk_at_mun.ca</i>
+</p>
 
+<p><b>Sashi Prasadh, B.Sc.(Hon) student  </b>  
+<br><i>E-mail: sprasadh_at_mun.ca</i></p>
+   
+<p><b>Dr. Shivani Semwal, group manager  </b> 
+<br> Ph.D. Physics, , <a href="http://www.mun.ca/">Memorial University</a>
+<br> M.Sc. Physics, <a href="https://www.hnbgu.ac.in/">Hemwati Nandan Bahuguna Garhwal University</a>
+<br> B.Sc.(Hon) Physics, <a href="https://www.du.ac.in/">University of Delhi</a>
+<br><i>E-mail: ssemwal_at_mun.ca</i></p>
 
 <li><b>Joseline Aimee, undergraduate student</b> 
 <br> B.Sc. (Honours) candidate in Physics/Applied Math
