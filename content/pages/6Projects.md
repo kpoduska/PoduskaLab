@@ -83,7 +83,7 @@ Return to <a href="research.html">Research</a>
 <TABLE border="0" cellpadding="4" cellspacing="10" >
 <TR align="left" > 
 
-<TD width="60" height="60"  bgcolor="#999999" align="left" valign="center"  > <img src="h../images/zno.jpg" title="zinc oxide"width="60">  </TD>
+<TD width="60" height="60"  bgcolor="#999999" align="left" valign="center"  > <img src="../images/zno.jpg" title="zinc oxide"width="60">  </TD>
 
 <TD width="*"  align="left" valign="center" >  Tailored optical responses of semiconductor materials lie at the heart of multi-billion dollar industries, including thin film transistor-based devices and photovoltaic cells. As an economical alternative to ultrahigh vacuum-based deposition methods, electrodeposition is showing promise for preparing thin film materials and devices for photovoltaic applications. <a href="research.html"> We explore ways to use electrochemical deposition and other synthesis strategies to control the interfaces, defects, and dopants that affect a material's optical and electronic responses.</a> <br><br>In other projects, we partnered with  <a href="https://lumentra.com/">Lumentra, Inc.</a> to explore new <a href="research.html">phosphor materials for solid-state lighting applications</a>. 
  </TD>
