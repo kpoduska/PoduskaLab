@@ -27,7 +27,7 @@ Return to <a href="research.html">Research</a>
 </p>
 
 <p>
-<b>Brian Espinosa Acosta, M.Sc. student</b> 
+<b>Brian Espinosa Acosta, M.Sc. Chemistry</b> 
 <br> B.Sc. Chemistry, <a href="https:/www.uh.cu/">Universidad de La Habana</a>
 <br><i>E-mail: bespinosaaco_at_mun.ca</i></li>
 </p>
