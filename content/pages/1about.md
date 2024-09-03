@@ -17,7 +17,7 @@ Those who work in my research group gain valuable generalist training in materia
 
 <p>
 
- Get a taste of what we do: watch this <a href="https://www.youtube.com/watch?v=leOXt4VeFt8">promotional video</a>.
+ Get a taste of what we do: you can watch this <a href="https://www.youtube.com/watch?v=leOXt4VeFt8">promotional video</a>.
 
  <p>
 
