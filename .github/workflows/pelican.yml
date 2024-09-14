@@ -12,3 +12,5 @@ jobs:
       id-token: "write"
     with:
       settings: "publishconf.py"
+      requirements: "pelican[markdown] typogrify"
+      output-path: "__output__/"
