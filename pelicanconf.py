@@ -27,9 +27,10 @@ LINKS_WIDGET_NAME = 'Links'
 LINKS = (
     ("Memorial University Physics & Physical Oceanography", "https://www.mun.ca/physics"),
     ("Memorial University Chemistry", "https://www.mun.ca/chem"),
+    ("Group Wikipage, Log into OSF","https://osf.io/"),
     ("Transforming Climate Action", "https://www.ofi.ca/programs/transform-climate-action"),
     ("Pelican", "https://getpelican.com/"),
-   ("Python.org", "https://www.python.org/"), 
+    ("Python.org", "https://www.python.org/"),
    # ("Jinja2", "https://palletsprojects.com/p/jinja/"),
     #("You can modify those links in your config file", "#"),
 )
