@@ -29,30 +29,34 @@ Return to <a href="research.html">Research</a>
 <p>
 <b>Brian Espinosa Acosta, Research Associate</b>
 <br> M.Sc. Chemistry, <a href="http://www.mun.ca/">Memorial University</a>
-<br> B.Sc. Chemistry, <a href="https:/www.uh.cu/">Universidad de La Habana</a>
+<br> B.Sc. Chemistry, <a href="https://www.uh.cu/">Universidad de La Habana</a>
 <br><i>E-mail: bespinosaaco_at_mun.ca</i></li>
 </p>
 
 <p>
-  <b>Jillian March, M.Sc. student (joint with <a href="http://www.esd.mun.ca/~amalcolm/">Dr. Alison Malcolm)</a></b> 
+  <b>Jillian March, M.Sc. student </b> (joint with <a href="http://www.esd.mun.ca/~amalcolm/">Dr. Alison Malcolm</a>) 
 <br>B.Sc.(Hon) Physics, <a href="http://www.mun.ca/">Memorial University</a> 
 <br><i>E-mail: jsmarch_at_mun.ca</i>
 </p>
 
 <p>
   <b>Parisa Mirzaei, M.Sc. student </b> (joint with <a href="https://www.physics.mun.ca/~saika/">Dr. Ivan Saika-Voivod</a>) 
-<br> M.Sc. Physics, <a href="https://   ut.ac.ir/">University of Tehran</a> 
+<br> M.Sc. Physics, <a href="https://ut.ac.ir/">University of Tehran</a> 
 <br> B.Sc. Physics, <a href="https://english.semnan.ac.ir/">University of Semnan</a>
 <br><i>E-mail: pmirzaei_at_mun.ca</i>
 </p>
 
-<p><b>Kyle Pike, B.Sc.(Hon) student (joint with <a href="https://www.physics.mun.ca/~entcho/">Dr. Entcho Demirov</a></b>  
+<p><b>Kyle Pike, B.Sc.(Hon) student </b> (joint with <a href="https://www.physics.mun.ca/~entcho/">Dr. Entcho Demirov</a>) 
 <br><i>E-mail: kallanp_at_mun.ca</i>
 </p>
 
 <p><b>Jack Taj, M.Sc. student </b> 
 <br>B.Sc.(Hon) Physics,  <a href="http://www.mun.ca/">Memorial University</a>
 <br><i>E-mail: ajtaj_at_mun.ca</i></p>
+
+<p><b>Olajide Arimiyau Olubowale, M.Sc. Chemistry student </b> 
+<br>B.Sc. Chemistry,  <a href="https://www.rsu.edu.ng/">Rivers State University</a>
+<br><i>E-mail: oaolubowale_at_mun.ca</i></p>
 
 
 <h2><a href="alumni.html"> Where are the alumni of the Poduska Research group now?</a></h2>
