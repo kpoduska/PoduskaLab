@@ -21,6 +21,11 @@ For as long as humans have existed, we have used materials around us in creative
 <h2> Current projects</h2>
 We investigate materials with <a href ="projects.html">environmental, archaeological, geological, and technological</a> applications. <p>
 
+
+NEW! Call for master’s and PhD projects at the interface of youth empowerment and the climate/ocean interface, in connection with the broad <a href="https://www.ofi.ca/programs/transform-climate-action">Transforming Climate Action (TCA) research program</a>. Interdisciplinary, intersectoral and inter-university research will be conducted on climate and ocean issues with young people in both elementary and secondary schools, with the specific goal of enhancing their knowledge, agency, and power to act! The call for applicants is available <a href="https://www.uqar.ca/app/uploads/2024/12/appel_a_projets_de_maiitrise_et_de_doctorat_2_offres_francais_english.pdf">here.</a>
+
+<p>
+
 <h2> Publications</h2>
 View my full publication lists using <a href="https://orcid.org/0000-0003-4495-0668">ORCID</a>, <a href="https://scholar.google.ca/citations?user=cF0LuegAAAAJ&hl=en">Google Scholar</a>, and <a href="https://www.researchgate.net/profile/Kristin-Poduska">Research Gate</a>. Many of these articles are open access or freely available through <a href="https://research.library.mun.ca/view/creator_az/Poduska=3AKristin_M=2E=3A=3A.html">Memorial University's Research Repository.</a><p>
 
