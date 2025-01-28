@@ -15,8 +15,11 @@ My research group benefits from students with diverse academic backgrounds, incl
 
 <h2>Industry</h2>
 
+<li> <b>Shivani Semwal (Group Manager, 2023-2024 joint with <a href="https://softmaterials.ca/">Dr. Anand Yethiraj</a></b> <br>
+  became an optics researcher at the <a href="https://nrc.canada.ca/en/">National Research Council of Canada </a></li>
+
 <li><b>Stephen Campbell (Ph.D. Physics, 2023)</b><br> 
-became an industry researcher in Nova Scotia</li>
+became a researcher at Weir Marine Engineering </li>
 
 <li><b>Katie Joyce, (M.Sc. Physics, 2023)</b>  (joint with <a href="https://www.esd.mun.ca/~amalcolm/">Dr. Alison Malcolm</a>) <br>
 became a researcher at <a href="http://www.avalonholographics.com/">Avalon Holographics</a> </li>
@@ -24,7 +27,7 @@ became a researcher at <a href="http://www.avalonholographics.com/">Avalon Holog
 <li><b>Boyang Gao (Ph.D. Chemistry, 2022)</b><br> 
 became an industry researcher in China</li>
 
-<li><b>Somayeh Khajehpour Tadavani, (Post-doctoral fellow, 2018-2021)</b>  (joint with <a href="https://www.esd.mun.ca/~amalcolm/">Dr. Alison Malcolm</a>) <br>
+<li><b>Somayeh Khajehpour Tadavani, (Post-doctoral researcher, 2018-2021)</b>  (joint with <a href="https://www.esd.mun.ca/~amalcolm/">Dr. Alison Malcolm</a>) <br>
 became a researcher at <a href="http://www.avalonholographics.com/">Avalon Holographics</a> </li>
 
 <li><b>Jacob Newman (B.Sc. (Honours) Earth Science, 2019 and M.Sc. Earth Science, 2021) </b> (joint with <a href="https://www.esd.mun.ca/~amalcolm/">Dr. Alison Malcolm</a>) <br>
@@ -49,7 +52,7 @@ became a research analyst at <a href="http://synqrinus.com/">Synqrinus</a></li>
 <br>became a capital budget lead at <a href="nlpower.ca">NL Power</a> following a B.Eng. degree at <a href="http://www.mun.ca/">Memorial University</a> after participating in the <a href="http://www.wisenl.ca/ssep.htm">Women in Science and Engineering Summer Student Employment Program</a>
 </li>
 
-<li><b>Chuan (Sandy) Xu (Post-doctoral Fellow, 2014-2015)</b> <br>
+<li><b>Chuan (Sandy) Xu (Post-doctoral researcher, 2014-2015)</b> <br>
 became a researcher at Green Innovative Technologies R&D Centre</li>
 
 <li><b>Jadran Surette (B.Eng. Electrical, 2014)</b><br>
@@ -67,7 +70,7 @@ started his own company <a href="https://www.spectroleumlabs.com/">Spectroleum L
 <li> <b>Bernard Ryan (B.Eng. Electrical, 2012)</b><br>
 worked for <a href="http://www.solace.ca/">Solace Power</a></li>
 
-<li> <b>Csaba Szakacs (Post-Doctoral Fellow, 2009-2010)</b> (joint with <a href="http://www.chem.mun.ca/~erika">Dr. Erika Merschrod</a>)<br>
+<li> <b>Csaba Szakacs (Post-doctoral researcher, 2009-2010)</b> (joint with <a href="http://www.chem.mun.ca/~erika">Dr. Erika Merschrod</a>)<br>
 became project coordinator at <a href="http://kabs.com">K. A. B. S. Laboratories</a></li>
 </li>
 
@@ -76,9 +79,11 @@ became a manufacturing/automation engineer at <a href="https://www.comcoinc.com/
 and a researcher at <a href="http://solarfuelshub.org">California Institute of Technology, Joint Center for Artificial Photosynthesis</a>
 </li>
 
+<p></p>
+
 <h2>Education</h2>
 
-<li><b>Andrey Melnikov (Post-Doctoral Fellow, 2021-2022 joint with <a href="http://www.esd.mun.ca/~amalcolm/">Dr. Alison Malcolm</a>)</b>
+<li><b>Andrey Melnikov (Post-doctoral researcher, 2021-2022 joint with <a href="http://www.esd.mun.ca/~amalcolm/">Dr. Alison Malcolm</a>)</b>
 became an Assistant Professor at <a href="https://research.nu.edu.kz/en//">Nazarbayev University</a>
 
 <li><b>Brandon Collier, (B.Sc. (Honours) Physics, 2018)</b> 
@@ -95,11 +100,11 @@ became an Associate Professor at <a href="http://news.upc.edu.cn/english/">China
 became a science and math tutor after completing an M.Sc. at the <a href="http://www.phas.ubc.ca/">University of British Columbia</a>
 </li>
 
-<li> <b>Jie Ma (Post-Doctoral Fellow, 2013-2012)</b> <br>
+<li> <b>Jie Ma (Post-doctoral researcher, 2013-2012)</b> <br>
 became an Associate Professor at <a href="http://www.iitm.ac.in/">Zaozhuang University</a>
 </li>
 
-<li> <b>Tiju Thomas (Post-Doctoral Fellow, 2011-2012)</b> <br>
+<li> <b>Tiju Thomas (Post-doctoral researcher, 2011-2012)</b> <br>
 became an Associate Professor at <a href="http://www.iitm.ac.in/">Indian Institute of Technology Madras</a>
 <!-- INSPIRE (Department of Science and Technology) faculty fellow at the <a href="http://mrc.iisc.ernet.in/index.htm">Materials Research Center at the Indian Institute of Science, Bangalore</a>-->
 </li>
@@ -111,16 +116,17 @@ became a Professor at <a href="http://www.pieas.edu.pk/dmme/">Pakistan Institute
 became a physics laboratory instructor at <a href="http://www.mun.ca/">Memorial University</a></li>
 
 <li> <b>Adam Noel (B.Eng. Electrical and Computer Engineering, 2009) </b><br>
-became an Associate Professor at <a href="http://www2.warwick.ac.uk/fac/sci/eng/">the University of Warwick</a></li>
+became a Professor first at <a href="http://www2.warwick.ac.uk/fac/sci/eng/">the University of Warwick</a> and now at <a href="http://www.mun.ca/">Memorial University</a></li>
 
 <li> <b>Tim Kelly (B.Sc. (Honours) Chemistry, 2004)</b><br>
 became a Canada Research Chair in Photovoltaics at <a href="http://www.usask.ca">the University of Saskatchewan</a></li>
 
+<p></p>
 
 <h2>Medical and health fields</h2>
 
 <li><b>Erica Hayward (B.Sc. (Honours) Physics/Applied Math, 2017)</b> <br>
-became an M.D. candidate at <a href="http://www.mun.ca/">Memorial University</a></li>
+became a respirologist at <a href="http://www.mun.ca/">Memorial University</a></li>
 
 <li> <b>Jonathan Ford (B.Sc. Physics, 2015)</br></b> 
 became an M.D. candidate after completing a Masters of Public Health, both at <a href="http://www.mun.ca/">Memorial
@@ -142,12 +148,9 @@ became a surgeon after getting an M.D. at <a href="http://www.mun.ca/">Memorial 
 <li> <b>Liam Fardy (Gonzaga High School STEP Co-op Program, 2003)</b><br>
 became a pediatrician after getting an M.D. at <a href="http://www.mun.ca/">Memorial University</a></li>
 
-
+<p></p>
 
 <h2>Cool careers that you might not think of!</h2>
-
-<li> <b>Shivani Semwal (Group Manager, 2023-2024 joint with <a href="https://softmaterials.ca/">Dr. Anand Yethiraj</a></b> <br>
-  became an optics researcher at the <a href="https://nrc.canada.ca/en/">National Research Council of Canada </a></li>
 
 <li><b>Justin Elms (M.Sc. Physics, 2018) </b> <br>
 became a physical scientist at the <a href="https://www.dfo-mpo.gc.ca/">Department of Fisheries and Oceans</a> <br>after being a research intern at <a href="https://www.cna.nl.ca/">College of the North Atlantic</a></li>
@@ -170,7 +173,7 @@ worked as an analytical chemist Defence Research and Development Canada</li>
 <li><b>Bryan Jerrett (B.Sc. Physics/Applied Math, 2005)</b><br>
 became a supply chain manager at KCA Deutag</li>
 
-
+<p></p>
 
 <h2>Advanced degrees</h2>
 
