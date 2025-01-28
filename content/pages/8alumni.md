@@ -208,8 +208,14 @@ became a post-doctoral fellow at the <a href="http://wyss.harvard.edu">Harvard U
 
 <hr>
 
-
-<!--
+<!--  <b>Parisa Mirzaei, M.Sc. student </b> (joint with <a href="https://www.physics.mun.ca/~saika/">Dr. Ivan Saika-Voivod</a>) 
+<br> M.Sc. Physics, <a href="https://ut.ac.ir/">University of Tehran</a> 
+<br> B.Sc. Physics, <a href="https://english.semnan.ac.ir/">University of Semnan</a>
+<br><i>E-mail: pmirzaei_at_mun.ca</i>
+</p>
+<p><b>Olajide Arimiyau Olubowale, M.Sc. Chemistry student </b> 
+<br>B.Sc. Chemistry,  <a href="https://www.rsu.edu.ng/">Rivers State University</a>
+<br><i>E-mail: oaolubowale_at_mun.ca</i></p>
 
 <p><b>Vikentiy Pashuk, B.Sc.(Hon) student  </b>  
 <br><i>E-mail: vpashuk_at_mun.ca</i>
