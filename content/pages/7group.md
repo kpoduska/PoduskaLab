@@ -22,7 +22,7 @@ Return to <a href="research.html">Research</a>
 </p>
             
 <p>
-<b>Behnam Ashouri, Project Manager/b>
+<b>Behnam Ashouri, Project Manager</b>
 <br> MBA, <a href="http://www.mun.ca/">Memorial University</a>            
 <br> B.Eng., <a href="http://www.guilan.ac.ir/">Guilan University</a>a>
 <br><i>E-mail: aashourivaj_at_mun.ca</i>
@@ -55,15 +55,7 @@ Return to <a href="research.html">Research</a>
 <br><i>E-mail: ajtaj_at_mun.ca</i></p>
 
 <p></p>
-<!--  <b>Parisa Mirzaei, M.Sc. student </b> (joint with <a href="https://www.physics.mun.ca/~saika/">Dr. Ivan Saika-Voivod</a>) 
-<br> M.Sc. Physics, <a href="https://ut.ac.ir/">University of Tehran</a> 
-<br> B.Sc. Physics, <a href="https://english.semnan.ac.ir/">University of Semnan</a>
-<br><i>E-mail: pmirzaei_at_mun.ca</i>
-</p>
-<p><b>Olajide Arimiyau Olubowale, M.Sc. Chemistry student </b> 
-<br>B.Sc. Chemistry,  <a href="https://www.rsu.edu.ng/">Rivers State University</a>
-<br><i>E-mail: oaolubowale_at_mun.ca</i></p>
--->
+
 
 <h2><a href="alumni.html"> Where are the alumni of the Poduska Research group now?</a></h2>
 
