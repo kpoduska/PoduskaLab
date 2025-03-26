@@ -13,7 +13,7 @@ Status: hidden
 
 <h2>Academic Positions</h2>
 
-<li> 2024-present: Associate Scientific Director (Memorial University), <a href="https://www.ofi.ca/programs/transform-climate-action">Transforming Climate Action</a> </li>
+<li> 2024-present: Associate Scientific Director (Memorial University), <a href="https://www.ofi.ca/programs/transform-climate-action">Transforming Climate Action</a>,  <a href="https://www.ofi.ca/programs/transform-climate-action/team">Ocean Frontier Institute</a></li>
 
 <li> 2015-present: Professor of <a href="http://www.physics.mun.ca">physics</a> (cross-appointed to <a href="http://www.chem.mun.ca">Department of Chemistry</a>),<br> <a href="http://www.mun.ca">Memorial University of Newfoundland</a>  </li>
 
@@ -54,7 +54,7 @@ with matching funds from the Newfoundland and Labrador Research and Development 
 <h3> Industry-related projects </h3>
 
 <li> <a href="http://www.nserc.ca">Natural Sciences and Engineering Research Council</a> of Canada:
-<br> Interaction Grant, Engage Grant, and Collaborative Research and Development Grant <br>
+<br> Interaction Grant, Engage Grant, Collaborative Research and Development Grant, and Alliance Grant<br>
 Industrial partners have included <a href="http://lumentra.com">Lumentra</a>,  <a href="http://www.ultra-ms.com/">Ultra Electronics Maritime Systems</a> and <a href="http://www.lotek.com">Lotek</a></li>
 
 <li> <a href="http://www.asc-csa.gc.ca/">Canadian Space Agency</a>
@@ -83,7 +83,7 @@ Micromagnetic simulations of disorder effects in templated magnetic media </li>
 
 <li> 2022-2025: Group Chair, <a href="http://www.nserc-crsng.gc.ca/NSERC-CRSNG/committees-comites/Physics-Physique_eng.asp">NSERC Evaluation Group  - Physics (1505) and the Subatomic Physics Evaluation Section</a></li>  
 
-<li> 2021-present: Volunteer, <a href="http://www.aaas.org/">American Association for the Advancement of Science</a>, <br>in the <a href="http://www.aaas.org/programs/scientific-responsibility-human-rights-law">Scientific Responsibility, Human Rights, and Law program</a>.</li>  
+<li> 2021-2023: Volunteer, <a href="http://www.aaas.org/">American Association for the Advancement of Science</a>, <br>in the <a href="http://www.aaas.org/programs/scientific-responsibility-human-rights-law">Scientific Responsibility, Human Rights, and Law program</a>.</li>  
 
 <li> 2014-present: Editorial Board, <a href="http://www.springer.com/materials/optical+%26+electronic+materials/journal/10854?detailsPage=editorialBoard">Journal of Materials Science: Materials in Electronics</a></li> 
 
