@@ -25,9 +25,9 @@ REMEMBER_DARKTHEME = True
 # Blogroll
 LINKS_WIDGET_NAME = 'Links'
 LINKS = (
-    ("Memorial University Physics & Physical Oceanography", "https://www.mun.ca/physics"),
-    ("Memorial University Chemistry", "https://www.mun.ca/chem"),
-    ("Group Wikipage, Log into OSF","https://osf.io/"),
+    ("Physics & Physical Oceanography @Memorial", "https://www.mun.ca/physics"),
+    ("Chemistry @Memorial", "https://www.mun.ca/chem"),
+    ("Group Wiki on OSF","https://osf.io/"),
     ("Transforming Climate Action", "https://www.ofi.ca/programs/transform-climate-action"),
     ("Ocean Frontier Institute", "https://www.mun.ca/research/ocean-frontier-institute/"),
     ("Pelican", "https://getpelican.com/"),
