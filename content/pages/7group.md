@@ -16,25 +16,13 @@ Return to <a href="research.html">Research</a>
 <h2>Current Research Team</h2>
 
 <p>
-<b>Murad Almegdade, M.Env.Sci. student</b>
-<br>B.Sc. Geology/Earth Science, University of Jordan
-<br><i>E-mail: mmmalmegdade_at_mun.ca</i>
-</p>
-            
-<p>
-<b>Behnam Ashouri, Project Manager</b>
-<br> MBA, <a href="http://www.mun.ca/">Memorial University</a>            
-<br> B.Eng., <a href="http://www.guilan.ac.ir/">Guilan University</a>a>
-<br><i>E-mail: aashourivaj_at_mun.ca</i>
-</p>
-
-<p>
-<b>Jake Breen, B.Sc.(Hon) student </b>  
+<b>Jake Breen, Research Associate </b>
+<br>B.Sc.(Hon) Chemistry, <a href="http://www.mun.ca/">Memorial University</a> 
 <br><i>E-mail: jjbreen_at_mun.ca</i></li>
 </p>
 
 <p>
-<b>Brian Espinosa Acosta, Research Associate</b>
+<b>Brian Espinosa Acosta, Ph.D. student e</b>
 <br> M.Sc. Chemistry, <a href="http://www.mun.ca/">Memorial University</a>
 <br> B.Sc. Chemistry, <a href="https://www.uh.cu/">Universidad de La Habana</a>
 <br><i>E-mail: bespinosaaco_at_mun.ca</i></li>
@@ -46,7 +34,8 @@ Return to <a href="research.html">Research</a>
 <br><i>E-mail: jsmarch_at_mun.ca</i>
 </p>
 
-<p><b>Kyle Pike, B.Sc.(Hon) student </b> (joint with <a href="https://www.physics.mun.ca/~entcho/">Dr. Entcho Demirov</a>) 
+<p><b>Kyle Pike, M.Sc. student </b>
+<br>B.Sc.(Hon) Physics, <a href="http://www.mun.ca/">Memorial University</a> (joint with <a href="https://www.physics.mun.ca/~entcho/">Dr. Entcho Demirov</a>) 
 <br><i>E-mail: kallanp_at_mun.ca</i>
 </p>
 
