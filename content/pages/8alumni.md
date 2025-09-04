@@ -15,7 +15,7 @@ My research group benefits from students with diverse academic backgrounds, incl
 
 <h2>Industry</h2>
 
-<li><b>Murad Murad Almegdade (M.Env.Sci., 2025)</b><br> 
+<li><b>Murad Almegdade (M.Env.Sci., 2025)</b><br> 
 became an environmental analyst in Ontario</li>
 
 <li> <b>Shivani Semwal (Group Manager, 2023-2024 joint with <a href="https://softmaterials.ca/">Dr. Anand Yethiraj</a></b> <br>
