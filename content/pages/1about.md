@@ -27,7 +27,7 @@ Those who work in my research group gain valuable generalist training in materia
 
 <hr>
 
-NEW! Call for master’s and PhD projects at the interface of youth empowerment and the climate/ocean interface, in connection with the broad <a href="https://www.ofi.ca/programs/transform-climate-action">Transforming Climate Action (TCA) research program</a>. Interdisciplinary, intersectoral and inter-university research will be conducted on climate and ocean issues with young people in both elementary and secondary schools, with the specific goal of enhancing their knowledge, agency, and power to act! The call for applicants is available <a href="https://www.uqar.ca/app/uploads/2024/12/appel_a_projets_de_maiitrise_et_de_doctorat_2_offres_francais_english.pdf">here and will remain open until the position is filled.</a>
+<!--NEW! Call for master’s and PhD projects at the interface of youth empowerment and the climate/ocean interface, in connection with the broad <a href="https://www.ofi.ca/programs/transform-climate-action">Transforming Climate Action (TCA) research program</a>. Interdisciplinary, intersectoral and inter-university research will be conducted on climate and ocean issues with young people in both elementary and secondary schools, with the specific goal of enhancing their knowledge, agency, and power to act! The call for applicants is available <a href="https://www.uqar.ca/app/uploads/2024/12/appel_a_projets_de_maiitrise_et_de_doctorat_2_offres_francais_english.pdf">here and will remain open until the position is filled.</a>-->
 
 <p></p>
 
