@@ -1,7 +1,7 @@
 #AUTHOR = 'SS
 SITENAME = 'Poduska Research Lab'
 SITEURL = ""
-SITESUBTITLE = '<br> Dr. Kristin Poduska, Professor <br> Associate Scientific Director, Transforming Climate Action, Ocean Frontier Institute <br> Memorial University of Newfoundland & Labrador<br> Experimental Materials Physics & Chemistry'
+SITESUBTITLE = '<br> Dr. Kristin Poduska, Professor <br> Associate Scientific Director, Transforming Climate Action / Transformer l’Action pour le Climat <br> Ocean Frontier Institute @ Memorial <br> Memorial University of Newfoundland & Labrador<br> Experimental Materials Physics & Chemistry'
 SITELOGO = 'images/munlogosmall.jpg'
 
 PATH = "content"
@@ -28,8 +28,8 @@ LINKS = (
     ("Physics & Physical Oceanography @Memorial", "https://www.mun.ca/physics"),
     ("Chemistry @Memorial", "https://www.mun.ca/chem"),
     ("Group Wiki on OSF","https://osf.io/"),
-    ("Transforming Climate Action", "https://www.ofi.ca/programs/transform-climate-action"),
-    ("Ocean Frontier Institute", "https://www.mun.ca/research/ocean-frontier-institute/"),
+    ("Transforming Climate Action / Transformer l’Action pour le Climat", "https://www.ofi.ca/programs/transform-climate-action"),
+    ("Ocean Frontier Institute @ Memorial", "https://www.mun.ca/research/ocean-frontier-institute/"),
     ("Our Code Toolbox","https://github.com/bespinosaaco/KPLabToolBox"),
     ("Pelican", "https://getpelican.com/"),
     ("Python.org", "https://www.python.org/"),
