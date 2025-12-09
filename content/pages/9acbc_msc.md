@@ -8,9 +8,7 @@ Status: hidden
 Return to <a href="research.html">Research</a>
 </div>
 
-<br>
-
-We (<a href="https://www.macquarrieresearch.ca/">Dr. Stephanie MacQuarrie</a>,  <a href="research.html">Dr. Kris Poduska</a>, and <a href="https://www.mun.ca/engineering/about/our-people/kelly-hawboldt/">Dr. Kelly Hawboldt</a>) are recruiting two MSc students at Memorial University of Newfoundland (MUN) to work on the nitrogen functionalization and surface tailoring of biochars  for CO₂/CH₄ capture and for use in low-carbon construction materials. This work would be conducted through Memorial with co-supervision from Cape Breton University.
+We (<a href="https://www.macquarrieresearch.ca/">Dr. Stephanie MacQuarrie</a>,  <a href="about.html">Dr. Kris Poduska</a>, and <a href="https://www.mun.ca/engineering/about/our-people/kelly-hawboldt/">Dr. Kelly Hawboldt</a>) are recruiting two MSc students at Memorial University of Newfoundland (MUN) to work on the nitrogen functionalization and surface tailoring of biochars  for CO₂/CH₄ capture and for use in low-carbon construction materials. This work would be conducted through Memorial with co-supervision from Cape Breton University.
 
 <h2>Qualifications</h2>
 
@@ -44,16 +42,12 @@ Start date: flexible; positions will remain open until filled. <br>
 
 Details on tuition and formal MSc program requirements are available via Memorial University’s graduate studies webpages. <br>
 
-<br>
-
 <h2>Equity, diversity, and inclusion</h2>
 Our team is committed to an inclusive, supportive research environment. All supervisors have active EDI roles at their institutions and within national organizations. <br>
 
 We welcome applications from candidates of all backgrounds, including those who identify as women, 2SLGBTQIA+, Indigenous, Black, racialized, disabled, first-generation students, and others from groups historically underrepresented in STEM. For MSc recruitment we do not pre-screen solely on GPA or prior research experience; we are particularly interested in your curiosity, perseverance, and alignment with the project. <br>
 
-If you require accommodations during the application or interview process, please indicate this in your email and we will work with you to support a fair process. 
-
-<br>
+If you require accommodations during the application or interview process, please indicate this in your email and we will work with you to support a fair process. <br>
 
 <h2>How to apply</h2>
 
@@ -72,6 +66,8 @@ Unofficial transcripts are acceptable at the application stage.
 
 <li>Names and contact information for 2 referees</li>
 (e.g., research supervisor, course instructor, or employer).
+
+<br>
 
 <b>Send your application by email to: Stephanie_MacQuarrie@cbu.ca with the Subject line: “MSc application – N-functionalized biochar”</b>
 
