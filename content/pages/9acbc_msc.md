@@ -10,7 +10,7 @@ Return to <a href="research.html">Research</a>
 
 <br>
 
-We (Dr. Stephanie MacQuarrie, Dr. Kris Poduska, and Dr. Kelly Hawboldt) are recruiting two MSc students at Memorial University of Newfoundland (MUN) to work on the nitrogen functionalization and surface tailoring of biochars  for CO₂/CH₄ capture and for use in low-carbon construction materials. This work would be conducted with co-supervision with colleagues at Cape Breton University.
+We (<a href="https://www.macquarrieresearch.ca/">Dr. Stephanie MacQuarrie</a>, <a href="about.html">Dr. Kris Poduska</a>, and <a href="https://www.mun.ca/engineering/about/our-people/kelly-hawboldt/">Dr. Kelly Hawboldt</a>) are recruiting two MSc students at Memorial University of Newfoundland (MUN) to work on the nitrogen functionalization and surface tailoring of biochars  for CO₂/CH₄ capture and for use in low-carbon construction materials. This work would be conducted through Memorial with co-supervision from Cape Breton University.
 
 <h2>Qualifications</h2>
 
@@ -18,16 +18,12 @@ We (Dr. Stephanie MacQuarrie, Dr. Kris Poduska, and Dr. Kelly Hawboldt) are recr
 
 <li>BSc (or equivalent) in Chemistry (synthesis is a strong asset), Chemical Engineering, Materials Science or a closely related field (or completion expected before start).</li>
 
-<li>Strong background in at least one of:
-
-<li>Organic / polymer / surface chemistry/ synthesis</li>
-
-<li>Materials chemistry or solid-state / physical chemistry </li>
+<li>Strong background in at least one of: Organic / polymer / surface chemistry/ synthesism, Materials chemistry, or solid-state / physical chemistry </li>
 
 <li>Interest in climate-relevant research, circular economy, and low-carbon technologies.</li>
 
 <li>Ability to work both independently and as part of an interdisciplinary team; good written and oral communication skills.</li>
-</li>
+</li> <br>
 
 <b>Assets (not all required):</b>
 
@@ -38,7 +34,7 @@ We (Dr. Stephanie MacQuarrie, Dr. Kris Poduska, and Dr. Kelly Hawboldt) are recr
 <li>Familiarity with gas adsorption, CO₂ capture, or related modeling</li>
 
 <li>Experience in green chemistry, sustainable processes, or life-cycle thinking</li>
- 
+ <br> <br>
 
 <h2>Funding & start date</h2>
 
@@ -48,12 +44,16 @@ Start date: flexible; positions will remain open until filled. <br>
 
 Details on tuition and formal MSc program requirements are available via Memorial University’s graduate studies webpages. <br>
 
+<br>
+
 <h2>Equity, diversity, and inclusion</h2>
 Our team is committed to an inclusive, supportive research environment. All supervisors have active EDI roles at their institutions and within national organizations. <br>
 
 We welcome applications from candidates of all backgrounds, including those who identify as women, 2SLGBTQIA+, Indigenous, Black, racialized, disabled, first-generation students, and others from groups historically underrepresented in STEM. For MSc recruitment we do not pre-screen solely on GPA or prior research experience; we are particularly interested in your curiosity, perseverance, and alignment with the project. <br>
 
 If you require accommodations during the application or interview process, please indicate this in your email and we will work with you to support a fair process. 
+
+<br>
 
 <h2>How to apply</h2>
 
