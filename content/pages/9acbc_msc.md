@@ -1,0 +1,67 @@
+Title: ACBC_MSc
+Date: 2024-04-14 16:20
+Category: Group
+Status: hidden
+
+<h1> Two MSc Positions – Nitrogen-Functionalized Biochar for Carbon Capture and Low-Carbon Materials (Memorial University)</h1>
+<div class = "small italics">
+Return to <a href="research.html">Research</a>
+</div>
+
+<br>
+
+We (Dr. Stephanie MacQuarrie, Dr. Kris Poduska, and Dr. Kelly Hawboldt) are recruiting two MSc students at Memorial University of Newfoundland (MUN) to work on the nitrogen functionalization and surface tailoring of biochars  for CO₂/CH₄ capture and for use in low-carbon construction materials. This work would be conducted with co-supervision with colleagues at Cape Breton University.
+
+<h2>Qualifications</h2>
+
+<b>Required:</b>
+
+<li>BSc (or equivalent) in Chemistry (synthesis is a strong asset), Chemical Engineering, Materials Science or a closely related field (or completion expected before start).</li>
+
+<li>Strong background in at least one of:
+Organic / polymer / surface chemistry/ synthesis
+Materials chemistry or solid-state / physical chemistry
+Interest in climate-relevant research, circular economy, and low-carbon technologies.
+Ability to work both independently and as part of an interdisciplinary team; good written and oral communication skills.
+
+Assets (not all required):
+Experience with biomass, biochar, catalysis, or porous materials
+Hands-on work with spectroscopic or surface characterization (FTIR, XPS, BET, TGA, etc.)
+Familiarity with gas adsorption, CO₂ capture, or related modeling
+Experience in green chemistry, sustainable processes, or life-cycle thinking
+
+<h2>Funding & start date</h2>
+
+Fully funded MSc stipends at competitive MUN rates (for 2 years), supported by an NSERC Alliance grant and partner contributions.
+Start date: flexible; positions will remain open until filled.
+Details on tuition and formal MSc program requirements are available via Memorial University’s graduate studies webpages.
+
+<h2>Equity, diversity, and inclusion</h2>
+Our team is committed to an inclusive, supportive research environment. All supervisors have active EDI roles at their institutions and within national organizations.
+We welcome applications from candidates of all backgrounds, including those who identify as women, 2SLGBTQIA+, Indigenous, Black, racialized, disabled, first-generation students, and others from groups historically underrepresented in STEM. For MSc recruitment we do not pre-screen solely on GPA or prior research experience; we are particularly interested in your curiosity, perseverance, and alignment with the project. 
+
+If you require accommodations during the application or interview process, please indicate this in your email and we will work with you to support a fair process.
+
+<h2>How to apply</h2>
+Please send a single PDF file containing:
+
+Cover letter (≤1 page)
+
+Briefly describe your background, why you are interested in N-functionalized biochar / carbon capture, and how your experience aligns with this project.
+Curriculum vitae (CV)
+Include relevant coursework, research or work experience, publications (if any), and technical skills.
+Academic transcripts
+Unofficial transcripts are acceptable at the application stage.
+Names and contact information for 2 referees
+(e.g., research supervisor, course instructor, or employer).
+Send your application by email to: Stephanie MacQuarrie  
+Stephanie_MacQuarrie@cbu.ca
+Subject line: “MSc application – N-functionalized biochar”
+
+Applications will be reviewed as they are received, and shortlisted candidates will be invited for an online interview.
+
+
+<br>
+<hr>
+
+<hr>
