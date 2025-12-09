@@ -10,7 +10,7 @@ Return to <a href="research.html">Research</a>
 
 <br>
 
-We (<a href="https://www.macquarrieresearch.ca/">Dr. Stephanie MacQuarrie</a>,  <a href="about.html">Dr. Kris Poduska</a>, and <a href="https://www.mun.ca/engineering/about/our-people/kelly-hawboldt/">Dr. Kelly Hawboldt</a>) are recruiting two MSc students at Memorial University of Newfoundland (MUN) to work on the nitrogen functionalization and surface tailoring of biochars  for CO₂/CH₄ capture and for use in low-carbon construction materials. This work would be conducted through Memorial with co-supervision from Cape Breton University.
+We (<a href="https://www.macquarrieresearch.ca/">Dr. Stephanie MacQuarrie</a>,  <a href="about.html">Dr. Kris Poduska</a>, <a href="https://www.unb.ca/faculty-staff/directory/engineering-civil/sanchez-castillo-xiomara.html">Dr. Xiomara Sanchez-Castillo<a>, and <a href="https://www.mun.ca/engineering/about/our-people/kelly-hawboldt/">Dr. Kelly Hawboldt</a>) are recruiting two MSc students at Memorial University of Newfoundland (MUN) to work on the nitrogen functionalization and surface tailoring of biochars for CO₂/CH₄ capture and for use in low-carbon construction materials. This work would be conducted through Memorial University with co-supervision from Cape Breton University.
 
 <h2>Qualifications</h2>
 
