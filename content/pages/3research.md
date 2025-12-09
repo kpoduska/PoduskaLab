@@ -51,7 +51,7 @@ This work is supported by <a href="cv.html">local and national funding agencies,
 
 <h2>Join us!</h2>
 
-Do you think this research is for you? <a href ="projects.html">View this page</a> to learn about employment and studying opportunities.  <br>
+Do you think this research is for you? <a href ="Projects.html">View this page</a> to learn about employment and studying opportunities.  <br>
 <br>
 
 <img src="../images/groupwalk2022.jpg" title="Group walk, August 2022" width=100% height=100%> 
