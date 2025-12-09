@@ -34,7 +34,7 @@ We (<a href="https://www.macquarrieresearch.ca/">Dr. Stephanie MacQuarrie</a>,  
 <li>Familiarity with gas adsorption, CO₂ capture, or related modeling</li>
 
 <li>Experience in green chemistry, sustainable processes, or life-cycle thinking</li>
- 
+ <br>
 
 <h2>Funding & start date</h2>
 
@@ -64,11 +64,7 @@ If you require accommodations during the application or interview process, pleas
 
 <li>Names and contact information for 2 referees</li> (e.g., research supervisor, course instructor, or employer).
 
-<br>
-
 <b>Send your application by email to: Stephanie_MacQuarrie@cbu.ca with the Subject line: “MSc application – N-functionalized biochar”</b>
-
-<br>
 
 Applications will be reviewed as they are received, and shortlisted candidates will be invited for an online interview.
 
