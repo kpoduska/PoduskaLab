@@ -27,7 +27,8 @@ Those who work in my research group gain valuable generalist training in materia
 
 <hr>
 
-<!--NEW! Call for master’s and PhD projects at the interface of youth empowerment and the climate/ocean interface, in connection with the broad <a href="https://www.ofi.ca/programs/transform-climate-action">Transforming Climate Action (TCA) research program</a>. Interdisciplinary, intersectoral and inter-university research will be conducted on climate and ocean issues with young people in both elementary and secondary schools, with the specific goal of enhancing their knowledge, agency, and power to act! The call for applicants is available <a href="https://www.uqar.ca/app/uploads/2024/12/appel_a_projets_de_maiitrise_et_de_doctorat_2_offres_francais_english.pdf">here and will remain open until the position is filled.</a>-->
+NEW! Two MSc positions available to support nitrogen-functionalized biochar for carbon capture and low-carbon materials.
+<a href="acbc_msc.html">The call for applicants is available here and will remain open until the position is filled.</a>
 
 <p></p>
 
@@ -37,6 +38,6 @@ Those who work in my research group gain valuable generalist training in materia
 
 <p>
 
-<i>* Do you know the spherical cow joke in physics? <a href="https://en.wikipedia.org/wiki/Spherical_cow">Read it here.</a> This joke pokes fun at physicists, but it's one that we share around within the discipline to highlight what makes our approach to problems somewhat unique: by simplifying a problem, we can make it more tractable and easier to get a useful answer. What's important here is that we know that we're not getting all of the details right -- we focus instead on getting a result that helps us move forward in our thinking, our planning, and our understanding. This at the core of how I do my research. It's a powerful approach!</i>
+<i>* Do you know the spherical cow joke in physics? <a href="https://en.wikipedia.org/wiki/Spherical_cow">Read it here.</a> This joke pokes fun at physicists, but it's one that we share around within the discipline to highlight what makes our approach to problems somewhat unique: by simplifying a problem, we can make it easier to get a useful answer. What's important here is that we know that we're not getting all of the details right -- we focus instead on getting a result that helps us move forward in our thinking, our planning, and our understanding. This at the core of how I do my research. It's a powerful approach!</i>
 
 <hr>
