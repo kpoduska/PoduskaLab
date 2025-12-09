@@ -23,7 +23,7 @@ We (<a href="https://www.macquarrieresearch.ca/">Dr. Stephanie MacQuarrie</a>,  
 <li>Interest in climate-relevant research, circular economy, and low-carbon technologies.</li>
 
 <li>Ability to work both independently and as part of an interdisciplinary team; good written and oral communication skills.</li>
-</li> <br>
+</li> 
 
 <b>Assets (not all required):</b>
 
@@ -34,7 +34,7 @@ We (<a href="https://www.macquarrieresearch.ca/">Dr. Stephanie MacQuarrie</a>,  
 <li>Familiarity with gas adsorption, CO₂ capture, or related modeling</li>
 
 <li>Experience in green chemistry, sustainable processes, or life-cycle thinking</li>
- <br>
+ 
 
 <h2>Funding & start date</h2>
 
@@ -62,11 +62,8 @@ If you require accommodations during the application or interview process, pleas
 
 <li>Academic transcripts</li> Unofficial transcripts are acceptable at the application stage.
 
-<br>
-
 <li>Names and contact information for 2 referees</li> (e.g., research supervisor, course instructor, or employer).
 
-<br>
 <br>
 
 <b>Send your application by email to: Stephanie_MacQuarrie@cbu.ca with the Subject line: “MSc application – N-functionalized biochar”</b>
