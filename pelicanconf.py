@@ -43,7 +43,7 @@ LINKS = (
   #  ("Another social link", "#"),
 #)
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 11
 
 STATIC_PATHS = ['images']
 
