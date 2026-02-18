@@ -1,72 +1,70 @@
-Title: ACBC_MSc
-Date: 2024-04-14 16:20
+Title: TCA_mCDR
+Date: 2026-02-18 11:20
 Category: Group
 Status: hidden
 
-<h1> Two MSc Positions – Nitrogen-Functionalized Biochar for Carbon Capture and Low-Carbon Materials (Memorial University)</h1>
+<h1> Graduate Student Position – Particle Dynamics and Dissolution in Marine Carbon Dioxide Removal (Memorial University, Dalhousie University)</h1>
 <div class = "small italics">
 Return to <a href="research.html">Research</a>
 </div>
 
 <br>
 
-We (<a href="https://www.macquarrieresearch.ca/">Dr. Stephanie MacQuarrie</a>,  <a href="about.html">Dr. Kris Poduska</a>, <a href="https://www.unb.ca/faculty-staff/directory/engineering-civil/sanchez-castillo-xiomara.html">Dr. Xiomara Sanchez-Castillo<a>, and <a href="https://www.mun.ca/engineering/about/our-people/kelly-hawboldt/">Dr. Kelly Hawboldt</a>) are recruiting two MSc students at Memorial University of Newfoundland (MUN) to work on the nitrogen functionalization and surface tailoring of biochars for CO₂/CH₄ capture and for use in low-carbon construction materials. This work would be conducted through Memorial University with co-supervision from Cape Breton University.
+We are pleased to announce a funded graduate student position (MSc or PhD) focused on advancing Marine Carbon Dioxide Removal (mCDR), with a preferred start date in Spring 2026 or Fall 2026. The research will focus on predicting the fate of discharged alkaline minerals and their dissolution rates in the ocean for monitoring and verification purposes. This work is critical for the durable implementation of mCDR. The successful candidate will be co-advised by <a href="about.html">Prof. Kris Poduska</a> at Memorial University and <a href="https://www.dal.ca/faculty/engineering/civil-resource/faculty-staff/our-faculty/adam-yang.html">Dr. Adam Jiankang Yang</a> at Dalhousie University.
 
-<h2>Qualifications</h2>
+<h2>Research Background:</h2>
 
-<b>Required:</b>
+Global average temperatures were 1.1 °C warmer in 2011–2020 compared to the 1850–1900
+baseline and are likely to surpass the 1.5 °C warming threshold in the coming years. Mitigation
+not only requires significant reductions in carbon emissions but also the implementation of
+effective carbon dioxide removal strategies. One promising approach involves adding milled
+mineral particles to the ocean’s surface to facilitate atmospheric CO₂ removal as the particles
+dissolve in seawater. Once in seawater, these minerals neutralize excess carbonic acid and
+convert dissolved CO₂ into stable bicarbonate and carbonate, enabling long-term carbon
+sequestration over thousands of years. This research aims to address critical scientific questions
+regarding the dynamics and dissolution of mineral particles in the ocean for CO₂ removal.
+This position will be funded for 2 years (MSc) or 4 years (PhD), including stipend and research
+support. 
 
-<li>BSc (or equivalent) in Chemistry (synthesis is a strong asset), Chemical Engineering, Materials Science or a closely related field (or completion expected before start).</li>
+We encourage motivated and creative applicants with:
 
-<li>Strong background in at least one of: Organic / polymer / surface chemistry/ synthesism, Materials chemistry, or solid-state / physical chemistry </li>
+<li>a graduate or undergraduate degree in physics, physical oceanography, chemistry,
+engineering, mathematics, or a related discipline and have a history of academic
+excellence</li>
+<li> experience and/or desire to learn statistical analysis</li>
+<li> an ability to work in a collaborative team environment</li>
+<li> international students with English language proficiency (i.e., at least TOEFL iBT=92,
+IELTS= 7, or equivalent)</li>
+<li> Preferred: knowledge of programming (e.g., Python, MATLAB) and/or laboratory
+experience.</li>
 
-<li>Interest in climate-relevant research, circular economy, and low-carbon technologies.</li>
+ 
+<h2>Location:</h2>
 
-<li>Ability to work both independently and as part of an interdisciplinary team; good written and oral communication skills.</li>
-</li> 
+The research will be conducted at both the Department of Physics and Physical Oceanography at
+Memorial University of Newfoundland & Labrador, and in the Department of Civil and
+Resource Engineering at Dalhousie University. The successful applicant will be based at one of
+these Universities (Memorial for Chemistry or Physics applicants; Dalhousie for Engineering
+applicants), based on their academic background.
 
-<b>Assets (not all required):</b>
+<h2>Equity, diversity, and inclusion:</h2>
 
-<li>Experience with biomass, biochar, catalysis, or porous materials</li>
+Our team is committed to an inclusive, supportive research environment.
 
-<li>Hands-on work with spectroscopic or surface characterization (FTIR, XPS, BET, TGA, etc.)</li>
+We welcome applications from candidates of all backgrounds, including those who identify as
+women, 2SLGBTQIA+, Indigenous, Black, racialized, disabled, first-generation students, and
+others from groups historically underrepresented in STEM. For recruitment, we do not pre-
+screen solely on GPA or prior research experience; we are particularly interested in your
+curiosity, perseverance, and alignment with the project.
 
-<li>Familiarity with gas adsorption, CO₂ capture, or related modeling</li>
+If you require accommodations during the application or interview process, please indicate this
+in your email and we will work with you to support a fair process.
 
-<li>Experience in green chemistry, sustainable processes, or life-cycle thinking</li>
- <br>
+<h2>How to Apply:</h2>
 
-<h2>Funding & start date</h2>
-
-Fully funded MSc stipends at competitive MUN rates (for 2 years), supported by an NSERC Alliance grant and partner contributions. <br>
-
-Start date: flexible; positions will remain open until filled. <br>
-
-Details on tuition and formal MSc program requirements are available via Memorial University’s graduate studies webpages. <br>
-
-<h2>Equity, diversity, and inclusion</h2>
-
-Our team is committed to an inclusive, supportive research environment. All supervisors have active EDI roles at their institutions and within national organizations. <br>
-
-We welcome applications from candidates of all backgrounds, including those who identify as women, 2SLGBTQIA+, Indigenous, Black, racialized, disabled, first-generation students, and others from groups historically underrepresented in STEM. For MSc recruitment we do not pre-screen solely on GPA or prior research experience; we are particularly interested in your curiosity, perseverance, and alignment with the project. <br>
-
-If you require accommodations during the application or interview process, please indicate this in your email and we will work with you to support a fair process. <br>
-
-<h2>How to apply</h2>
-
-<b>Please send a single PDF file containing:</b> <br>
-
-<li>Cover letter (less than 1 page)</li> Briefly describe your background, why you are interested in N-functionalized biochar / carbon capture, and how your experience aligns with this project.
-
-<li>Curriculum vitae (CV)</li>  Include relevant coursework, research or work experience, publications (if any), and technical skills.
-
-<li>Academic transcripts</li> Unofficial transcripts are acceptable at the application stage.
-
-<li>Names and contact information for 2 referees</li> (e.g., research supervisor, course instructor, or employer).
-
-<b>Send your application by email to: Stephanie_MacQuarrie@cbu.ca with the Subject line: “MSc application – N-functionalized biochar”</b>
-
-Applications will be reviewed as they are received, and shortlisted candidates will be invited for an online interview.
+Interested candidates should send their CV, contact information for two referees, and a brief
+statement of research interests to Dr. Kristin Poduska (kris_at_mun.ca) or Dr. Adam Jiankang
+Yang (jiankang.yang_at_dal.ca). Applications will be reviewed as they are received, and shortlisted candidates will be invited for online interviews.
 
 <hr>
 
