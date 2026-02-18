@@ -128,8 +128,11 @@ became a Canada Research Chair in Photovoltaics at <a href="http://www.usask.ca"
 
 <h2>Medical and health fields</h2>
 
+<li><b>Joseline Aimee (B.Sc. (Honours) Physics, 2021)</b> <br>
+became a certified medical radiation technologist
+
 <li><b>Erica Hayward (B.Sc. (Honours) Physics/Applied Math, 2017)</b> <br>
-became a respirologist at <a href="http://www.mun.ca/">Memorial University</a></li>
+became a respirologist after getting an M.D. at <a href="http://www.mun.ca/">Memorial University</a></li>
 
 <li> <b>Jonathan Ford (B.Sc. Physics, 2015)</br></b> 
 became an M.D. candidate after completing a Masters of Public Health, both at <a href="http://www.mun.ca/">Memorial
@@ -219,10 +222,6 @@ became a post-doctoral fellow at the <a href="http://wyss.harvard.edu">Harvard U
 <p><b>Olajide Arimiyau Olubowale, M.Sc. Chemistry student </b> 
 <br>B.Sc. Chemistry,  <a href="https://www.rsu.edu.ng/">Rivers State University</a>
 <br><i>E-mail: oaolubowale_at_mun.ca</i></p>
-
-<p><b>Vikentiy Pashuk, B.Sc.(Hon) student  </b>  
-<br><i>E-mail: vpashuk_at_mun.ca</i>
-</p>
 
 <p><b>Sashi Prasadh, B.Sc.(Hon) student  </b>  
 <br><i>E-mail: sprasadh_at_mun.ca</i></p>
