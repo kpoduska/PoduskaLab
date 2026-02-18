@@ -1,4 +1,4 @@
-Title: mCDR_opportunity
+Title: mCDR hiring
 Date: 2026-02-18 11:20
 Category: Group
 Status: hidden
@@ -75,7 +75,5 @@ statement of research interests to Dr. Kristin Poduska (kris_at_mun.ca) or Dr. A
 Yang (jiankang.yang_at_dal.ca). 
 
 Applications will be reviewed as they are received, and shortlisted candidates will be invited for online interviews.
-
-<hr>
 
 <hr>
