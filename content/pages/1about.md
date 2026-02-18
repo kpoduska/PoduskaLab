@@ -30,6 +30,8 @@ Those who work in my research group gain valuable generalist training in materia
 NEW! MSc positions available to support the development of nitrogen-functionalized biochar for carbon capture and low-carbon materials.
 <a href="acbc_msc.html">The call for applicants is available here and will remain open until the position is filled.</a>
 
+<p>
+
 NEW! MSc/PhD positions available to support marine carbon dioxide removal research.
 <a href="tca_mcdr.html">The call for applicants is available here and will remain open until the position is filled.</a>
 
