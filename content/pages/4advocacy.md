@@ -5,7 +5,7 @@ Category: Advocacy
 <!--<h2>For everyone</h2>
 -->
 
-<li> I work with education and information science researchers involved in transformative approaches to <a href="https://transformative-ocean-climate-action.github.io/">action and policy in the context of oceans and climate change mitigation</a> through a <a href="https://www.cfref-apogee.gc.ca/">Canada First Research Excellence Fund</a> program.
+<li> I work with education and information science researchers involved in transformative approaches to <a href="https://transformative-ocean-climate-action.github.io/">action and policy in the context of oceans and climate change mitigation</a> through a <a href="https://www.cfref-apogee.gc.ca/">Canada First Research Excellence Fund</a> program.</li><p></p>
 
 <li> I volunteered with the <a href="http://www.aaas.org/">American Association for the Advancement of Science</a> in the <a href="http://www.aaas.org/programs/scientific-responsibility-human-rights-law">Scientific Responsibility, Human Rights, and Law program</a> in affiliation with their <a href="http://www.aaas.org/programs/on-call-scientists">On-Call Scientists</a> initiative. View a webinar I moderated about <a href="https://www.youtube.com/watch?v=7KVQIoBDFqY">Science and Climate Change Litigation: A Dialog with Experts and Advocates</a></li><p></p>
 
