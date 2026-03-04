@@ -27,8 +27,10 @@ Return to <a href="research.html">Research</a>
 
 <br> <br> <i> NEW! MSc/PhD positions available to support marine carbon dioxide removal research. 
 <a href="tca_mcdr.html">The call for applicants is available here and will remain open until the position is filled.</a></i>
-</TD>
 
+<br><br> Marine carbonate collaborators include:  <a href="https://www.mun.ca/archaeology/people/faculty/mburchell.php">Meghan Burchell</a> (Memorial Archaeology),  <a href="https://www.mun.ca/osc/dr-patrick-gagnon/">Pat Gagnon</a> (Memorial Ocean Sciences)
+
+</TD>
 </tr>
 </TABLE>
 
