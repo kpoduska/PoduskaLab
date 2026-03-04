@@ -16,13 +16,26 @@ Return to <a href="research.html">Research</a>
 
 <TD width="60" height="60"  bgcolor="#999999" align="left" valign="center"  > <img src="../images/calcite.jpg" title="birefringent calcite"width="60">  </TD>
 
-<TD width="*"  align="left" valign="center" >  Carbonate minerals and other carbon-rich solids are important sinks for atmospheric carbon dioxide, but their degradation can release the carbon dioxide back into the air or could contribute to pH changes in aqueous environments. This means that improving our understanding of processes such as ocean acidification, water remediation, and atmosphere-water interactions requires a better understanding of the complex interplay between carbon-rich solids and their local environment.  <a href="research.html">We use laboratory experiments, as well as theoretical simulations and modelling, to investigate the evolution of and variations within carbonate mineral and biochar material structures.</a>  <br><br> Collaborators include:  <a href="https://www.mun.ca/engineering/about/our-people/kelly-hawboldt/">Kelly Hawboldt</a> (Memorial Engineering),  <a href="https://www.cbu.ca/faculty-staff/directory/stephanie-macquarrie/">Stephanie MacQuarrie</a> (Cape Breton University Chemistry),  <a href="https://www.unb.ca/faculty-staff/directory/engineering-civil/sanchez-castillo-xiomara.html">Xiomara Sanchez-Castillo</a> (University of New Brunswick Civil Engineering), <a href="https://www.physics.mun.ca/~entcho/">Entcho Demirov</a> (Memorial Physics), <a href="https://mixing.phys.ocean.dal.ca/">Ruth Musgrave</a> (Dalhousie Oceanography)
-<br> <br> NEW! Two MSc positions available to support nitrogen-functionalized biochar for carbon capture and low-carbon materials.
-<a href="acbc_msc.html">The call for applicants is available here and will remain open until the position is filled.</a></TD>
+<TD width="*"  align="left" valign="center" >  Carbonate minerals and other carbon-rich solids are important sinks for atmospheric carbon dioxide, but their degradation can release the carbon dioxide back into the air or could contribute to pH changes in aqueous environments. This means that improving our understanding of processes such as ocean acidification, water remediation, and atmosphere-water interactions requires a better understanding of the complex interplay between carbon-rich solids and their local environment.  <a href="research.html">We use laboratory experiments, as well as simulations and modelling, to investigate the evolution of and variations within carbonate mineral and biochar material structures.</a>  
+ 
+<br><br> Biochar collaborators include:  <a href="https://www.mun.ca/engineering/about/our-people/kelly-hawboldt/">Kelly Hawboldt</a> (Memorial Engineering),  <a href="https://www.cbu.ca/faculty-staff/directory/stephanie-macquarrie/">Stephanie MacQuarrie</a> (Cape Breton University Chemistry),  <a href="https://www.unb.ca/faculty-staff/directory/engineering-civil/sanchez-castillo-xiomara.html">Xiomara Sanchez-Castillo</a> (University of New Brunswick Civil Engineering)
+ 
+<br> <br> NEW! One MSc position available to support nitrogen-functionalized biochar for carbon capture and low-carbon materials.
+<a href="acbc_msc.html">The call for applicants is available here and will remain open until the position is filled.</a>
+
+<br><br> Ocean alkalinity enhancement collaborators include: <a href="https://www.physics.mun.ca/~entcho/">Entcho Demirov</a> (Memorial Physics), <a href="https://mixing.phys.ocean.dal.ca/">Ruth Musgrave</a> (Dalhousie Oceanography), <a href="https://algarlab.wordpress.com/">Chris Algar</a> (Dalhousie Oceanography), <a href="https://sites.google.com/view/yang-efm-lab/about">Adam Jiankang Yang</a> (Dalhousie Civil and Resource Engineering)
+
+<br> <br> NEW! MSc/PhD positions available to support marine carbon dioxide removal research. 
+<a href="tca_mcdr.html">The call for applicants is available here and will remain open until the position is filled.</a></TD>
+
 </tr>
 </TABLE>
 
 <!--How do different kinds of imperfections affect the way that vibrations propagate in a solid? <a href="?content=pubs&topic=research">We use different material characterization techniques on the same material to study it at different length scales.</a>  Imperfections in solids can take many forms, ranging from Angstrom-scale differences in atomic arrangements, to nm-scale variations in a solid's periodicity, to microscopic pores and cracks.  These results help us to identify specific disorder signatures in a material that can tell us how it formed or evolved over time.  -->
+
+
+
+<h1>Past research projects</h1>
 
 <a name = "Geology"></a>  <h2>Wave interactions in complex solids</h2>
 
@@ -36,8 +49,6 @@ Return to <a href="research.html">Research</a>
 </TABLE>
 </p>
 </p>
-
-<h1>Past research projects</h1>
 
 <a name = "Geology"> </a> <h2>Remote mineral detection</h2>
 
