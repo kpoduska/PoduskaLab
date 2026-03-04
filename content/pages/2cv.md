@@ -44,6 +44,8 @@ Status: hidden
 <h2> Publications</h2>
 
 <li><a href ="research.html"> Recent publications are listed here.</a></li>
+
+<p></p>
   
 <h2>Financial support for research (recent)</h2>
 
