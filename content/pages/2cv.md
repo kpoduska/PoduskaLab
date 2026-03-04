@@ -11,9 +11,11 @@ Status: hidden
 <li> Ph.D. in <a href="http://www.chem.cornell.edu/fjd3/home.html">solid state physics</a>  <a href="http://www.cornell.edu">Cornell University</a>, Ithaca, NY, U.S.A.</li>
 <li> B.A. <i>magna cum laude</i>, major in <a href="http://webapps.acs.carleton.edu/curricular/physics/">physics</a>  <a href="http://www.carleton.edu">Carleton College</a>,  Northfield, MN, U.S.A.</li>
 
+<p></p>
+
 <h2>Academic Positions</h2>
 
-<li> 2024-present: Associate Scientific Director (Memorial University), <a href="https://www.ofi.ca/programs/transform-climate-action">Transforming Climate Action/ Transformer l'Action pour le Climat</a>,  <a href="https://www.ofi.ca/programs/transform-climate-action/team">Ocean Frontier Institute</a></li>
+<li> 2024-present: Associate Scientific Director (Memorial University), <a href="https://www.ofi.ca/programs/transform-climate-action">Transforming Climate Action/ Transformer l'Action pour le Climat</a>,  <a href="https://www.mun.ca/research/ocean-frontier-institute/">Ocean Frontier Institute @ Memorial</a></li>
 
 <li> 2015-present: Professor of <a href="http://www.physics.mun.ca">physics</a> (cross-appointed to <a href="http://www.chem.mun.ca">Department of Chemistry</a>),<br> <a href="http://www.mun.ca">Memorial University of Newfoundland</a>  </li>
 
@@ -29,11 +31,15 @@ Status: hidden
 
 <li> 2002, 2003: Per-course instructor in <a href="http://www.chem.yorku.ca">chemistry</a>, <br> <a href="http://www.yorku.ca">York University</a>, Toronto  </li>
 
+<p></p>
+
 <h2>Awards</h2>
 
 <li> 2020: <a href="https://citl.mun.ca/TeachingSupport/PresidentAwards.php">MUN President's Award for Distinguished Teaching</a>
 
 <li> 2009:  <a href="http://sustainability.suncor.com/2009/en/responsible/1064.aspx">Petro-Canada Young Innovator Award</a> (<a href="http://www.mun.ca/gazette/issues/vol41no14/bone.php">more details</a>)</li>
+
+<p></p>
 
 <h2> Publications</h2>
 
@@ -47,21 +53,24 @@ Status: hidden
 Discovery Grant Program, <a href="http://today.mun.ca/news.php?id=8620">Research Tools and Instrumentation Program<br>
 with matching funds from the Newfoundland and Labrador Research and Development Corporation</a></li>
 
-<li> <a href="http://www.innovation.ca">Canada Foundation for Innovation</a> New Opportunities Fund, Infrastructure and Operating Fund<br><a href="https://gazette.mun.ca/research/x-ray-diffractometers-and-environmental-archaeology/">Laboratory for Environmental Archaeological Science</a> and <a href="http://www.mun.ca/univrel/news/index.php?includefile=showitem.php&id=418">Facility for in-fluid preparation and characterization of inorganic and biological materials</a> </li>
+<li> <a href="http://www.innovation.ca">Canada Foundation for Innovation</a> New Opportunities Fund, Infrastructure and Operating Fund:<br><a href="https://gazette.mun.ca/research/x-ray-diffractometers-and-environmental-archaeology/">Laboratory for Environmental Archaeological Science</a> and <a href="http://www.mun.ca/univrel/news/index.php?includefile=showitem.php&id=418">Facility for in-fluid preparation and characterization of inorganic and biological materials</a> </li>
 
 <li> <a href="http://sustainability.suncor.com/2009/en/responsible/1064.aspx">Petro-Canada Young Innovator Award Program</a>: <br><a href="http://today.mun.ca/news.php?news_id=4703">Improving the functionality of biologically compatible materials through novel electrochemical syntheses</a> </li>
 
-<h3> Industry-related projects </h3>
+<h3> Mission-driven projects </h3>
 
-<li> <a href="http://www.nserc.ca">Natural Sciences and Engineering Research Council</a> of Canada:
-<br> Interaction Grant, Engage Grant, Collaborative Research and Development Grant, and Alliance Grant<br>
+<li> <a href="https://www.cfref-apogee.gc.ca/">Canada First Research Excellence Fund</a>: <br>
+<a href="https://www.ofi.ca/programs/transform-climate-action">Transforming Climate Action / Transformer l’Action pour le Climat</a> research program, including <a href="https://transformative-ocean-climate-action.github.io/">Climate Action and Policy</a></li>
+
+<li> <a href="http://www.nserc.ca">Natural Sciences and Engineering Research Council</a> of Canada:<br> 
+  Interaction Grant, Engage Grant, Collaborative Research and Development Grant, and Alliance Grant<br>
 Industrial partners have included <a href="http://lumentra.com">Lumentra</a>,  <a href="http://www.ultra-ms.com/">Ultra Electronics Maritime Systems</a> and <a href="http://www.lotek.com">Lotek</a></li>
 
-<li> <a href="http://www.asc-csa.gc.ca/">Canadian Space Agency</a>
-<br> <a href="http://www.asc-csa.gc.ca/eng/funding-programs/programs/fast/default.asp">Flights and Fieldwork for the Advancement of Science and Technology (FAST)</a> grant <br>
+<li> <a href="http://www.asc-csa.gc.ca/">Canadian Space Agency</a>:<br> 
+  <a href="http://www.asc-csa.gc.ca/eng/funding-programs/programs/fast/default.asp">Flights and Fieldwork for the Advancement of Science and Technology (FAST)</a> grant <br>
 <a href="https://www.esd.mun.ca/wordpress/deltasresearch/index.php/serp/">Study of Electrical potential, Remote sensing, and Preservation of biosignatures at sites of serpentinization, led by Penny Morrill (MUN Earth Sciences)</a> 
 
-<li> <a href="http://www.pr-ac.ca">Petroleum Research Newfoundland and Labrador</a> : <br>
+<li> <a href="http://www.pr-ac.ca">Petroleum Research Newfoundland and Labrador</a>: <br>
 <a href="http://www.pr-ac.ca/index.php?id=142">Low-cost ceramic sensors for characterization of fugitive or flare emissions</a> and <a href="http://www.engr.mun.ca/~xduan/">Liquid Repellent Surface in Harsh Marine Environments, with Xili Duan (MUN Engineering)</a></li>
 
 <h3> Student stipends </h3>
@@ -77,7 +86,9 @@ Micromagnetic simulations of disorder effects in templated magnetic media </li>
 
 <li> <a href="http://www.mun.ca/sgs/">Memorial University's School of Graduate Studies</a></li>
 
-<li> <a href="http://www.mun.ca/cdel/career_students/mucep.php">Memorial Undergraduate Career Experience Program</a></li>    
+<li> <a href="http://www.mun.ca/cdel/career_students/mucep.php">Memorial Undergraduate Career Experience Program</a></li>  
+
+<p></p>
 
 <h2> Professional activities </h2>
 
