@@ -6,7 +6,7 @@ Category: Group
 <div class = "small italics">
 Return to <a href="research.html">Research</a>
 </div>
-<p><img src="../images/grp_20260216.jpeg" title="The Poduska group" width=75% height=75%></p>
+<p><img src="../images/grp_20260521.jpeg" title="The Poduska group" width=75% height=75%></p>
 <!---Original: Height = "400" --->
 
 <p>Students make this research possible! My research group benefits from students with diverse academic backgrounds, including physics, applied math, chemistry, engineering, earth science, and archaeology. Some students have had extensive research experience, while others are experiencing the thrills and challenges of research for the first time. </p>
@@ -22,6 +22,11 @@ Return to <a href="research.html">Research</a>
 </p>
 
 <p>
+<b>Kaitlyn Crawley, B.Sc. student </b>
+<br><i>E-mail: kcrawley_at_mun.ca</i>
+</p>
+
+<p>
 <b>Brian Espinosa Acosta, Ph.D. student </b>
 <br> M.Sc. Chemistry, <a href="http://www.mun.ca/">Memorial University</a>
 <br> B.Sc. Chemistry, <a href="https://www.uh.cu/">Universidad de La Habana</a>
@@ -32,12 +37,6 @@ Return to <a href="research.html">Research</a>
 <b>Afreen Mahiat, M.Sc. student </b> (joint with <a href="https://www.mun.ca/physics/our-people/faculty/dr-hilding-neilson/">Dr. Hilding Neilson</a>) 
 <br>B.Sc.(Hon) Physics, <a href="http://www.mun.ca/">Memorial University</a> 
 <br><i>E-mail: amahiat_at_mun.ca</i>
-</p>
-
-<p>
-<b>Jillian March, M.Sc. student </b> (joint with <a href="http://www.esd.mun.ca/~amalcolm/">Dr. Alison Malcolm</a>) 
-<br>B.Sc.(Hon) Physics, <a href="http://www.mun.ca/">Memorial University</a> 
-<br><i>E-mail: jsmarch_at_mun.ca</i>
 </p>
 
 <p><b>Kyle Pike, M.Sc. student </b>
