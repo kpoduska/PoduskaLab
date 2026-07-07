@@ -25,7 +25,7 @@ Those who work in my research group gain valuable generalist training in materia
 
 <p>
 
-<--! <hr>
+<!-- <hr>
 
 NEW! MSc positions available to support the development of nitrogen-functionalized biochar for carbon capture and low-carbon materials.
 <a href="acbc_msc.html">The call for applicants is available here and will remain open until the position is filled.</a>
