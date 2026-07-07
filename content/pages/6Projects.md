@@ -20,13 +20,15 @@ Return to <a href="research.html">Research</a>
  
 <br><br> Biochar collaborators include:  <a href="https://www.mun.ca/engineering/about/our-people/kelly-hawboldt/">Kelly Hawboldt</a> (Memorial Engineering),  <a href="https://www.macquarrieresearch.ca/stephanie">Stephanie MacQuarrie</a> (Cape Breton University Chemistry),  <a href="https://www.unb.ca/faculty-staff/directory/engineering-civil/sanchez-castillo-xiomara.html">Xiomara Sanchez-Castillo</a> (University of New Brunswick Civil Engineering)
  
-<br> <br> <i>NEW! One MSc position available to support nitrogen-functionalized biochar for carbon capture and low-carbon materials.
+<!--<br> <br> <i>NEW! One MSc position available to support nitrogen-functionalized biochar for carbon capture and low-carbon materials.
 <a href="acbc_msc.html">The call for applicants is available here and will remain open until the position is filled.</a></i>
+-->
 
 <br><br> Ocean alkalinity enhancement collaborators include: <a href="https://www.physics.mun.ca/~entcho/">Entcho Demirov</a> (Memorial Physics), <a href="https://mixing.phys.ocean.dal.ca/">Ruth Musgrave</a> (Dalhousie Oceanography), <a href="https://algarlab.wordpress.com/">Chris Algar</a> (Dalhousie Oceanography), <a href="https://sites.google.com/view/yang-efm-lab/about">Adam Jiankang Yang</a> (Dalhousie Civil and Resource Engineering)
 
-<br> <br> <i> NEW! MSc/PhD positions available to support marine carbon dioxide removal research. 
+<!--<br> <br> <i> NEW! MSc/PhD positions available to support marine carbon dioxide removal research. 
 <a href="tca_mcdr.html">The call for applicants is available here and will remain open until the position is filled.</a></i>
+-->
 
 <br><br> Marine carbonate collaborators include:  <a href="https://www.mun.ca/archaeology/people/faculty/mburchell.php">Meghan Burchell</a> (Memorial Archaeology),  <a href="https://www.mun.ca/osc/dr-patrick-gagnon/">Pat Gagnon</a> (Memorial Ocean Sciences)
 
