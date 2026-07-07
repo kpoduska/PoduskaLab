@@ -86,6 +86,9 @@ and a researcher at <a href="http://solarfuelshub.org">California Institute of T
 
 <h2>Education</h2>
 
+<li><b>Jillian March, (M.Sc. Physics, 2026)</b>  (joint with <a href="https://www.esd.mun.ca/~amalcolm/">Dr. Alison Malcolm</a>) <br>
+became an outreach coordinator at <a href="http://www.mun.ca/">Memorial University</a> </li>
+
 <li><b>Andrey Melnikov (Post-doctoral researcher, 2021-2022 joint with <a href="http://www.esd.mun.ca/~amalcolm/">Dr. Alison Malcolm</a>)</b>
 became an Assistant Professor at <a href="https://research.nu.edu.kz/en//">Nazarbayev University</a>
 
