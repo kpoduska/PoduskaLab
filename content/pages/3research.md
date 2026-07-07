@@ -54,7 +54,7 @@ This work is supported by <a href="cv.html">local and national funding agencies,
 Do you think this research is for you? Visit <a href="about.html">this page</a><br> to learn more about this team and the current employment and studying opportunities.<br>
 <br>
 
-<img src="../images/grp_20260521.jpg" title="Group retreat, May 2026" width=100% height=100%> 
+<img src="../images/grp_20260521.png" title="Group retreat, May 2026" width=100% height=100%> 
 <!--- Original: Height = 210 --->
 
 
