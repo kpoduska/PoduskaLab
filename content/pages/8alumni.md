@@ -186,6 +186,9 @@ became a supply chain manager at KCA Deutag</li>
 
 <h2>Advanced degrees</h2>
 
+<li><b>Jake Breen (B.Sc. (Honours) Chemistry, 2025)</b> <br>
+became an MSc candidate in Chemistry at <a href="http://www.queensu.ca/">Queen's University</a> </li>
+
 <li><b>Vikentiy Pashuk (B.Sc. (Honours) Physics, 2024)</b> <br>
 became an MSc candidate in Mechanical Engineering at <a href="http://www.mun.ca/">Memorial University</a> </li>
 
