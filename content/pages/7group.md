@@ -16,12 +16,6 @@ Return to <a href="research.html">Research</a>
 <h2>Current Research Team</h2>
 
 <p>
-<b>Jake Breen, Research Associate </b>
-<br>B.Sc.(Hon) Chemistry, <a href="http://www.mun.ca/">Memorial University</a> 
-<br><i>E-mail: jjbreen_at_mun.ca</i></li>
-</p>
-
-<p>
 <b>Kaitlyn Crawley, B.Sc. student </b>
 <br><i>E-mail: kcrawley_at_mun.ca</i>
 </p>
@@ -34,19 +28,38 @@ Return to <a href="research.html">Research</a>
 </p>
 
 <p>
+<b>Nasim Khazeni, Ph.D. student </b> (joint with <a href="https://www.cbu.ca/">Dr. Stephanie MacQuarrie</a>) 
+<br>M.Sc. Chemistry, <a href="http://www.cbu.ca/">Cape Breton University</a> 
+<br><i>E-mail: nkhazeni_at_mun.ca</i>
+</p>
+
+<p>
 <b>Afreen Mahiat, M.Sc. student </b> (joint with <a href="https://www.mun.ca/physics/our-people/faculty/dr-hilding-neilson/">Dr. Hilding Neilson</a>) 
 <br>B.Sc.(Hon) Physics, <a href="http://www.mun.ca/">Memorial University</a> 
 <br><i>E-mail: amahiat_at_mun.ca</i>
 </p>
 
 <p><b>Kyle Pike, M.Sc. student </b>
-<br>B.Sc.(Hon) Physics, <a href="http://www.mun.ca/">Memorial University</a> (joint with <a href="https://www.physics.mun.ca/~entcho/">Dr. Entcho Demirov</a>) 
+<br>B.Sc.(Hon) Physics, <a href="http://www.mun.ca/">Memorial University</a> 
 <br><i>E-mail: kallanp_at_mun.ca</i>
 </p>
 
-<p><b>Jack Taj, M.Sc. student </b> 
+<p><b>Jack Taj, Research Assistant </b> 
 <br>B.Sc.(Hon) Physics,  <a href="http://www.mun.ca/">Memorial University</a>
+<br>M.Sc. Scientific Computing,  <a href="http://www.mun.ca/">Memorial University</a> 
 <br><i>E-mail: ajtaj_at_mun.ca</i></p>
+
+<p><b>Dan Twining, M.Sc. student </b> (joint with <a href="https://www.mun.ca/math/our-people/faculty/danny-dyer/">Dr. Danny Dyer</a> and <a href="https://sites.google.com/view/melissa-huggan/">Dr. Melissa Huggan</a>) 
+<br>B.Sc. Math,  <a href="https://www.lssu.edu/">Lake Superior State University</a>
+<br><i>E-mail: dtwining_at_mun.ca</i></p>
+
+<p>
+<b>Baolin Wang, Post-doctoral Researcher </b> (based at Dalhousie University joint with <a href="https://sites.google.com/view/yang-efm-lab/about">Dr. Adam Jiankang Yang</a>) 
+</p>
+
+<p>
+<b>Chloé Bédard, Ph.D. student </b> (based at Université du Québec à Rimouski joint with <a href="https://www.uqar.ca/professeurs/therriault-genevieve/">Dr. Geneviève Therriault</a>) 
+</p>
 
 <p></p>
 
